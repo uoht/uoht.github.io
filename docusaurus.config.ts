@@ -1,12 +1,16 @@
-import {themes as prismThemes} from 'prism-react-renderer';
-import type {Config} from '@docusaurus/types';
+import { themes as prismThemes } from 'prism-react-renderer';
+import type { Config } from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
+// git remote set-url origin git@github.com:uoht/uoht.github.io.git ; git config --global http.sslVerify true ; 
+// git add . ; git commit -m "更新网站" ; git push origin source
+// $env:GIT_USER="uoht"; yarn deploy
+// yarn start
 
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
-  title: 'uoht的资源站',
-  tagline: 'Dinosaurs are cool',
+  title: 'uoht的小站',
+  tagline: 'Ciallo～(∠・ω< )⌒☆',
   favicon: 'img/favicon.ico',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
@@ -85,61 +89,61 @@ const config: Config = {
           type: 'docSidebar',
           sidebarId: 'tutorialSidebar',
           position: 'left',
-          label: 'Tutorial',
+          label: '资源',
         },
-        {to: '/blog', label: 'Blog', position: 'left'},
+        //{to: '/blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/uoht/docusaurus',
+          href: 'https://github.com/uoht/uoht.github.io',
           label: 'GitHub',
           position: 'right',
         },
       ],
     },
-    footer: {
-      style: 'dark',
-      links: [
-        {
-          title: 'Docs',
-          items: [
-            {
-              label: 'Tutorial',
-              to: '/docs/intro',
-            },
-          ],
-        },
-        {
-          title: 'Community',
-          items: [
-            {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-            },
-            {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
-            },
-            {
-              label: 'X',
-              href: 'https://x.com/docusaurus',
-            },
-          ],
-        },
-        {
-          title: 'More',
-          items: [
-            {
-              label: 'Blog',
-              to: '/blog',
-            },
-            {
-              label: 'GitHub',
-              href: 'https://github.com/uoht/docusaurus',
-            },
-          ],
-        },
-      ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
-    },
+    // footer: {
+    //   style: 'dark',
+    //   // links: [
+    //   //   {
+    //   //     title: 'Docs',
+    //   //     items: [
+    //   //       {
+    //   //         label: 'Tutorial',
+    //   //         to: '/docs/intro',
+    //   //       },
+    //   //     ],
+    //   //   },
+    //   //   {
+    //   //     title: 'Community',
+    //   //     items: [
+    //   //       {
+    //   //         label: 'Stack Overflow',
+    //   //         href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+    //   //       },
+    //   //       {
+    //   //         label: 'Discord',
+    //   //         href: 'https://discordapp.com/invite/docusaurus',
+    //   //       },
+    //   //       {
+    //   //         label: 'X',
+    //   //         href: 'https://x.com/docusaurus',
+    //   //       },
+    //   //     ],
+    //   //   },
+    //   //   {
+    //   //     title: 'More',
+    //   //     items: [
+    //   //       {
+    //   //         label: 'Blog',
+    //   //         to: '/blog',
+    //   //       },
+    //   //       {
+    //   //         label: 'GitHub',
+    //   //         href: 'https://github.com/uoht/docusaurus',
+    //   //       },
+    //   //     ],
+    //   //   },
+    //   // ],
+    //   copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+    // },
     prism: {
       theme: prismThemes.github,
       darkTheme: prismThemes.dracula,
