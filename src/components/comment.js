@@ -1,12 +1,14 @@
 import React from 'react';
 import Giscus from '@giscus/react';
+import { useColorMode } from '@docusaurus/theme-common';
 
 export const Comment = () => {
+  const { colorMode } = useColorMode();
+
   return (
     <div style={{ paddingTop: 50 }}>
       <Giscus
         id="comments"
-        // 以下部分参考 Giscus 生成的代码填写
         repo="uoht/uoht.github.io"
         repoId="R_kgDOPQu0pw"
         category="Announcements"
@@ -17,8 +19,8 @@ export const Comment = () => {
         reactionsEnabled="1"
         emitMetadata="0"
         inputPosition="bottom"
-        theme="preferred_color_scheme"
-        lang="en"
+        theme={colorMode === 'dark' ? 'dark_dimmed' : 'light'}
+        lang="zh-CN"
         loading="lazy"
       />
     </div>

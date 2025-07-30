@@ -74,7 +74,27 @@ const config: Config = {
       } satisfies Preset.Options,
     ],
   ],
+  themes: [
+    // ... 你的其他主题
+    [
+      require.resolve("@easyops-cn/docusaurus-search-local"),
+      /** @type {import("@easyops-cn/docusaurus-search-local").PluginOptions} */
+      ({
+        // `hashed` 推荐用于索引文件的长期缓存
+        hashed: true,
 
+        // 如果文档使用中文，建议设置：
+        language: ["en", "zh"],
+
+        // 自定义搜索栏快捷键（默认是 "mod+k"）：
+        // searchBarShortcutKeymap: "s", // 使用 'S' 键
+        // searchBarShortcutKeymap: "ctrl+shift+f", // 使用 Ctrl+Shift+F
+
+        // 如果你使用了 `noIndex: true`，设置 `forceIgnoreNoIndex` 来启用本地索引：
+        // forceIgnoreNoIndex: true,
+      }),
+    ],
+  ],
   themeConfig: {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
@@ -90,13 +110,17 @@ const config: Config = {
       //   src: 'img/logo.svg',
       // },
       items: [
-        {
-          type: 'docSidebar',
-          sidebarId: 'tutorialSidebar',
-          position: 'left',
-          label: '资源',
-        },
-        //{to: '/blog', label: 'Blog', position: 'left'},
+        // {
+        //   type: 'docSidebar',
+        //   sidebarId: 'tutorialSidebar',
+        //   position: 'left',
+        //   label: '资源',
+        // },
+        { to: 'docs/software', label: '软件', position: 'left'},
+        { to: 'docs/browser', label: '浏览器', position: 'left'},
+        { to: 'docs/amine', label: '动画', position: 'left'},
+        { to: 'docs/book', label: '书籍', position: 'left'},
+        { to: 'docs/music', label: '音乐', position: 'left'},
         {
           href: 'https://github.com/uoht/uoht.github.io',
           label: 'GitHub',
