@@ -78,12 +78,17 @@ const config: Config = {
   themeConfig: {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
+    colorMode: {
+      defaultMode: 'dark',
+      disableSwitch: false,
+      respectPrefersColorScheme: true,
+    },
     navbar: {
       title: 'uoht',
-      logo: {
-        alt: 'uoht Logo',
-        src: 'img/logo.svg',
-      },
+      // logo: {
+      //   alt: 'uoht Logo',
+      //   src: 'img/logo.svg',
+      // },
       items: [
         {
           type: 'docSidebar',
@@ -142,7 +147,7 @@ const config: Config = {
     //   //     ],
     //   //   },
     //   // ],
-    //   copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+    //   copyright: `Copyright © ${new Date().getFullYear()} <a href="https://uoht.github.io">uoht.github.io</a>, All Rights Reserved`,
     // },
     prism: {
       theme: prismThemes.github,

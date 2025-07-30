@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# ios软件
+# 手机软件
 
 *iOS商店没啥好软件，老系统可以用trollstore下其他软件*
 
