@@ -6,9 +6,7 @@ sidebar_position: 2
 
 *使用 [Greasyfork](https://greasyfork.org/) 下载，需要先安装扩展 [篡改猴测试版](https://chromewebstore.google.com/detail/%E7%AF%A1%E6%94%B9%E7%8C%B4%E6%B5%8B%E8%AF%95%E7%89%88/gcalenpjmijncebpfijmoaglllgpjagf) 。*
 
----
-
-## 📜 常用
+## 常用
 
 | 脚本名称 | 功能描述 |
 |---------|---------|
@@ -18,9 +16,7 @@ sidebar_position: 2
 | **[东方永页机](https://greasyfork.org/zh-CN/scripts/438684)** | 自动翻页功能 |
 | **[你能看见多少我能下载多少](https://greasyfork.org/zh-CN/scripts/486211)** | 下载免费文档 |
 
----
-
-## 📺 娱乐
+## 娱乐
 
 | 脚本名称 | 功能描述 |
 |---------|---------|

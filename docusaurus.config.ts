@@ -121,6 +121,9 @@ const config: Config = {
         { to: 'docs/amine', label: '动画', position: 'left'},
         { to: 'docs/book', label: '书籍', position: 'left'},
         { to: 'docs/music', label: '音乐', position: 'left'},
+        { to: 'docs/game', label: '游戏', position: 'left'},
+        { to: 'docs/forum', label: '论坛', position: 'left'},
+        { to: 'docs/other', label: '', position: 'left'},
         {
           href: 'https://github.com/uoht/uoht.github.io',
           label: 'GitHub',

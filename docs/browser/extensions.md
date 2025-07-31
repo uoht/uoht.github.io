@@ -6,9 +6,7 @@ sidebar_position: 1
 
 *在 [官方应用商店](https://chromewebstore.google.com/) 下载。*
 
----
-
-## 🧩 常用扩展
+## 常用扩展
 
 | 扩展名称 | 功能描述 |
 |---------|---------|
