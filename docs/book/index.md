@@ -8,6 +8,10 @@ sidebar_label: 书籍
 
 - [安娜的档案](https://zh.annas-archive.org/)
 
+## 轻小说
+
+- [Hikarinagi](https://www.hikarinagi.org/lightnovel)
+
 ## 本子
 
 - [exhentai](https://nicebowl.fun/11) (配合 [访问教程](https://nicebowl.fun/11) 和 [脚本](https://greasyfork.org/zh-CN/scripts/397848-comic-looms) 使用)

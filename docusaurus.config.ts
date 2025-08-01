@@ -1,7 +1,6 @@
 import { themes as prismThemes } from 'prism-react-renderer';
 import type { Config } from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
-// git remote set-url origin git@github.com:uoht/uoht.github.io.git ; git config --global http.sslVerify true ; 
 // git add . ; git commit -m "更新网站" ; git push origin source
 // $env:GIT_USER="uoht"; yarn deploy
 // yarn start
@@ -97,7 +96,7 @@ const config: Config = {
   ],
   themeConfig: {
     // Replace with your project's social card
-    image: 'img/docusaurus-social-card.jpg',
+    //image: 'img/docusaurus-social-card.jpg',
     colorMode: {
       defaultMode: 'dark',
       disableSwitch: false,
@@ -105,10 +104,10 @@ const config: Config = {
     },
     navbar: {
       title: 'uoht',
-      // logo: {
-      //   alt: 'uoht Logo',
-      //   src: 'img/logo.svg',
-      // },
+      logo: {
+        alt: 'uoht Logo',
+        src: 'img/logo.svg',
+      },
       items: [
         // {
         //   type: 'docSidebar',
@@ -123,7 +122,7 @@ const config: Config = {
         { to: 'docs/music', label: '音乐', position: 'left'},
         { to: 'docs/game', label: '游戏', position: 'left'},
         { to: 'docs/forum', label: '论坛', position: 'left'},
-        { to: 'docs/other', label: '', position: 'left'},
+        { to: 'docs/other', label: '其他', position: 'left'},
         {
           href: 'https://github.com/uoht/uoht.github.io',
           label: 'GitHub',

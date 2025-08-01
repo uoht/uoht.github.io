@@ -4,11 +4,10 @@ sidebar_label: 音乐
 ---
 # 音乐
 
-*在线的话只推荐youtube，B站会把音质压成屎*
+*在线听的话也可以用youtube，B站会把音质压成屎*
 
-## 单曲下载
-
-- [网易云无损解析](https://api.toubiec.cn/wyapi.html)
+- [酷我音乐破解](https://www.itrmb.com/thread-3034.htm) (冷门音乐不全)
+- [网易云无损解析](https://api.toubiec.cn/wyapi.html) (只能下单曲)
 
 ## 游戏音乐
 

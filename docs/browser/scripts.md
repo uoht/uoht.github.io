@@ -12,6 +12,7 @@ sidebar_position: 2
 |---------|---------|
 | **[链接助手](https://greasyfork.org/zh-CN/scripts/422773)** | 文本转链接，移除链接重定向，网页自动切换中文 |
 | **[网盘有效性检查](https://greasyfork.org/zh-CN/scripts/439266)** | 也能自动填充密码 |
+| **[123云盘解锁](https://greasyfork.org/zh-CN/scripts/519353)** | 解除1GB下载限制 |
 | **[搜索引擎快捷跳转](https://greasyfork.org/zh-CN/scripts/27752)** | 在不同搜索引擎间快速切换 |
 | **[东方永页机](https://greasyfork.org/zh-CN/scripts/438684)** | 自动翻页功能 |
 | **[你能看见多少我能下载多少](https://greasyfork.org/zh-CN/scripts/486211)** | 下载免费文档 |
