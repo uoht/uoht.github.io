@@ -24,6 +24,7 @@ sidebar_position: 2
 | **[Free Download Manager](https://www.puresys.net/1525.html)** | 多线程断点下载 |
 | **[WinRAR](https://www.puresys.net/334.html)** | 解压软件 |
 | **[迅雷](https://www.puresys.net/311.html)** | 种子下载快，上传可以用比特彗星 |
+| **[Catime](https://github.com/vladelaina/Catime)** | 计时器 |
 
 ## 游戏
 

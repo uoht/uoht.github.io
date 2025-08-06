@@ -12,7 +12,7 @@ sidebar_label: 其他
 - [oaipro](https://api.oaipro.com/) (只有OpenAI与Claude的API，这是我找到的唯一没有逆向模型的中转，[测试帖](https://www.ai2.moe/topic/32086-%E5%88%86%E4%BA%AB%E4%B8%80%E4%B8%AA%E6%A3%80%E6%B5%8Bai%E4%BB%A3%E7%90%86%E6%98%AF%E5%90%A6%E4%B8%BA%E9%80%86%E5%90%91%E7%9A%84%E5%B7%A5%E5%85%B7))
 - [Cherry Studio](https://www.cherry-ai.com/) (客户端)
 
-目前最聪明的是O3，翻译用claude-3.5，质量低的翻译用 [gimini](https://www.rainlain.com/index.php/2024/11/19/2645/) 、4.1-mini或官网deepseek-v3(慢)
+目前最聪明的是O3，翻译用claude-3.5，质量低的翻译用 [gimini轮询](https://www.rainlain.com/index.php/2024/11/19/2645/) 、4.1-mini或官网deepseek-v3(慢)
 
 ## 梯子
 
