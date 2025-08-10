@@ -6,34 +6,33 @@ sidebar_label: 游戏
 
 ## steam游戏
 
-需要自己下载汉化补丁
-
-- [igg-games](https://igg-games.com/)
-- [BYRUTOR](https://byrutgame.org/) (俄语)
+- **[Switch520](https://www.gamer520.com/)**
+- **[igg-games](https://igg-games.com/)**: 英语网站，需要自己下载汉化补丁，但资源更全更新
+- **[BYRUTOR](https://byrutgame.org/)**: 俄语网站
 
 ## galgame
 
-- [梓澪の妙妙屋](https://zi0.cc/)
-- [真红小站](https://www.shinnku.com/)
-- [TouchGal](https://www.touchgal.us/) (有预览)
+- **[梓澪の妙妙屋](https://zi0.cc/)**
+- **[真红小站](https://www.shinnku.com/)**
+- **[TouchGal](https://www.touchgal.us/)**: 有预览，但没有冷门资源
 
 ## 同人游戏
 
-- [ggbases](https://www.ggbases.com/) (要下汉化补丁)
-- [羽ACG](https://seve.yugal.cc/)
-- [ACG港湾](https://www.acggw.me/)
+- **[ggbases](https://www.ggbases.com/)**: 要下汉化补丁
+- **[羽ACG](https://seve.yugal.cc/)**
+- **[ACG港湾](https://www.acggw.me/)**
 
 ## 汉化补丁站
 
-- [鲲 Galgame 补丁](https://www.moyu.moe/)
+- **[鲲 Galgame 补丁](https://www.moyu.moe/)**
 
 ## 模拟器游戏
 
-- [掌机迷](https://www.gbarom.cn/moniqi) (下载模拟器，游戏要5块才能下)
-- [老男人游戏网配套论坛](https://bbs.oldmantvg.net/) (用搜索功能下载游戏)
+- **[掌机迷](https://www.gbarom.cn/moniqi)**: 下载模拟器，游戏要5块才能下
+- **[老男人游戏网配套论坛](https://bbs.oldmantvg.net/)**: 用搜索功能下载游戏
 
 ## 论坛
 
-- [鲲 Galgame](https://www.kungal.com/)
-- [御爱同萌](https://www.ai2.moe/) (ai汉化首发)
-- [南+](https://south-plus.net/)
+- **[南+](https://south-plus.net/)**
+- **[御爱同萌](https://www.ai2.moe/)**: ai汉化首发
+- **[鲲 Galgame](https://www.kungal.com/)**: 讨论环境好

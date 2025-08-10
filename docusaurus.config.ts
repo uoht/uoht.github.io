@@ -1,7 +1,7 @@
 import { themes as prismThemes } from 'prism-react-renderer';
 import type { Config } from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
-// git add . ; git commit -m "优化表格格式，删除论坛，添加其他站点" ; git push origin source
+// git add . ; git commit -m "优化格式" ; git push origin source
 // $env:GIT_USER="uoht"; yarn deploy
 // yarn start
 

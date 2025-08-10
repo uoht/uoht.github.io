@@ -8,18 +8,17 @@ sidebar_label: 其他
 
 ## AI
 
-- [模型逆向检测](https://reverse-check.no-reverse-api.com/)
-- [oaipro](https://api.oaipro.com/) (只有OpenAI与Claude的API，这是我找到的唯一没有逆向模型的中转，80元起充。[测试帖](https://www.ai2.moe/topic/32086-%E5%88%86%E4%BA%AB%E4%B8%80%E4%B8%AA%E6%A3%80%E6%B5%8Bai%E4%BB%A3%E7%90%86%E6%98%AF%E5%90%A6%E4%B8%BA%E9%80%86%E5%90%91%E7%9A%84%E5%B7%A5%E5%85%B7))
-- [mnapi](https://www.mnapi.com/register?aff=0MGr) (API只有最贵的是没问题的(自己说的OpenAI官key中，贵的模型是逆向的)，有官方gemini，1元起充) (通过该链接注册，各得0.5元，点一键注册的按钮不行)
-- [Cherry Studio](https://www.cherry-ai.com/) (客户端)
+- **[模型逆向检测](https://reverse-check.no-reverse-api.com/)**
+- **[oaipro](https://api.oaipro.com/)**: 只有OpenAI与Claude的API，这是我找到的唯一没有逆向模型的中转，80元起充。[测试帖](https://www.ai2.moe/topic/32086-%E5%88%86%E4%BA%AB%E4%B8%80%E4%B8%AA%E6%A3%80%E6%B5%8Bai%E4%BB%A3%E7%90%86%E6%98%AF%E5%90%A6%E4%B8%BA%E9%80%86%E5%90%91%E7%9A%84%E5%B7%A5%E5%85%B7)
+- **[mnapi](https://www.mnapi.com/register?aff=0MGr)**: API只有最贵的是没问题的(自己说的OpenAI官key中，贵的模型是逆向的)，有官方gemini，1元起充。（通过该链接注册，各得0.5元，点一键注册的按钮不行）
+- **[Cherry Studio](https://www.cherry-ai.com/)**: 客户端
 
 目前最聪明的是O3，差一点用 GPT-5 或 gimini-2.5-pro，翻译用 claude-3.5，质量低的翻译用 [gimini轮询](https://www.rainlain.com/index.php/2024/11/19/2645/) 或 GPT-5-mini
 
 ## 梯子
 
-- [丛雨云](https://congyu.moe/auth/register?invite=215f2e4072) (真红小站推荐的，用流量少的建议买￥19.8一年100G的) (要被邀请的人累计充1000元才能提100元)
+- **[丛雨云](https://congyu.moe/auth/register?invite=215f2e4072)**: 真红小站推荐的，用流量少的建议买￥19.8一年100G的（要被邀请的人累计充1000元才能提100元）
 
 ## 图床
 
-- [PigeonNet](https://up.inari.site/)
-
+- **[PigeonNet](https://up.inari.site/)**

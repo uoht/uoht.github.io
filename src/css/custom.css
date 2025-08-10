@@ -29,15 +29,16 @@
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
 /* 覆盖 Infima 对 table 的滚动封装 */
-.markdown table {
-  display: table !important;
-  /* 取消 Infima 的 display:block */
-  width: 100% !important;
-  /* 现在 100% 就能生效 */
-  table-layout: fixed;
-  /* 平均分列 / 用 colgroup 控制 */
+.markdown table,
+.markdown table:where(:not([class])),
+.markdown table:where(:not([class]))+* {
+  width: 100%;
 }
 
+.markdown div>table {
+  width: 100%;
+  table-layout: fixed;
+}
 /* 第一列（名字列）固定窄一点，剩下的空间都给第二列 */
 .markdown table th:nth-child(1),
 .markdown table td:nth-child(1) {

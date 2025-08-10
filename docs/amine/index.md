@@ -8,14 +8,14 @@ sidebar_label: 动画
 
 ## 下载站
 
-- [蜜柑计划](https://mikanani.me/)
-- [动漫花园](http://www.dmhy.org/)
+- **[蜜柑计划](https://mikanani.me/)**
+- **[动漫花园](http://www.dmhy.org/)**
 
 ## 字幕
 
-- [Anime字幕论坛](https://bbs.acgrip.com/)
-- [射手网](https://assrt.net/)
+- **[Anime字幕论坛](https://bbs.acgrip.com/)**
+- **[射手网](https://assrt.net/)**
 
 ## 工具
 
-- [SubRenamer](https://github.com/qwqcode/SubRenamer) (字幕文件批量改名)
+- **[SubRenamer](https://github.com/qwqcode/SubRenamer)**: 字幕文件批量改名
