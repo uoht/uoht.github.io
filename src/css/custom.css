@@ -28,3 +28,23 @@
   --ifm-color-primary-lightest: #99c3f5;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+/* 覆盖 Infima 对 table 的滚动封装 */
+.markdown table {
+  display: table !important;
+  /* 取消 Infima 的 display:block */
+  width: 100% !important;
+  /* 现在 100% 就能生效 */
+  table-layout: fixed;
+  /* 平均分列 / 用 colgroup 控制 */
+}
+
+/* 第一列（名字列）固定窄一点，剩下的空间都给第二列 */
+.markdown table th:nth-child(1),
+.markdown table td:nth-child(1) {
+  width: 32%;
+  /* 自行调整；不写也行，交给 table-layout: fixed */
+  white-space: nowrap;
+  /* 防止长链接/长名字自动换行 */
+}
+
+/* 如果想要更好看的边框/间距，请随意再补 */

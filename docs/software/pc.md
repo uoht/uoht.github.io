@@ -14,7 +14,7 @@ sidebar_position: 2
 | **[StartAllBack](https://www.puresys.net/4973.html)** | Win11开始菜单增强 |
 | **[ContextMenuManager](https://www.coolexe.com/569.html)** | 右键菜单修改 |
 | **[XYplorer](https://www.coolexe.com/1052.html)** | 多标签双页文件管理器 |
-| **[Windows11轻松设置](https://www.bilibili.com/opus/904672369138729017)** | 可以关闭Windows Defender |
+| **[Windows11轻松设置](https://www.bilibili.com/opus/904672369138729017)** | 可以关闭Windows Defender等 |
 | **[TrafficMonitor](https://www.puresys.net/1839.html)** | 网络流量检测 |
 | **[UmiOCR](https://github.com/hiroi-sora/Umi-OCR)** | 开源、免费的离线OCR软件 |
 | **[LockHunter](https://lockhunter.com/)** | 解锁删不了的文件夹 |
@@ -43,9 +43,3 @@ sidebar_position: 2
 | **[Adobe Acrobat](https://www.itrmb.com/thread-3834.htm)** | PDF |
 | **[PotPlayer](https://www.puresys.net/670.html)** | 视频播放器，可设置播放列表 |
 | **[Dopamine](https://github.com/digimezzo/dopamine-windows)** | 本地音乐播放器 |
-
-:::tip
-
-在线听歌建议直接去YouTube，B站压音质比较严重
-
-:::

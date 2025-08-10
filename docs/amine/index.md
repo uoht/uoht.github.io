@@ -16,7 +16,6 @@ sidebar_label: 动画
 - [Anime字幕论坛](https://bbs.acgrip.com/)
 - [射手网](https://assrt.net/)
 
-
 ## 工具
 
 - [SubRenamer](https://github.com/qwqcode/SubRenamer) (字幕文件批量改名)

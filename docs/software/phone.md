@@ -4,7 +4,7 @@ sidebar_position: 3
 
 # 手机软件
 
-*iOS商店没啥好软件，老系统可以用trollstore下其他软件*
+*iOS商店没啥好软件，老系统可以用trollstore下其他软件。安卓软件等我换安卓再推荐~*
 
 ## ios
 
@@ -15,4 +15,6 @@ sidebar_position: 3
 
 ## 安卓
 
-- [mumu模拟器](https://www.bilibili.com/opus/830791956620640309/)
+- [雷电模拟器](https://www.puresys.net/717.html)
+
+
