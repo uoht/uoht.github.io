@@ -11,5 +11,5 @@ sidebar_label: 音乐
 
 ## 游戏音乐
 
-- **[khinsider](https://downloads.khinsider.com/)**: 配合 [脚本](https://greasyfork.org/zh-CN/scripts/424015-vgmloaderx) 使用
-- **[Zophar's Domain](https://www.zophar.net/music)**
+- **[khinsider](https://downloads.khinsider.com/)**: 英文网站，配合 [下载脚本](https://greasyfork.org/zh-CN/scripts/424015-vgmloaderx) 使用
+- **[Zophar's Domain](https://www.zophar.net/music)**: 英文网站

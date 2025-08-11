@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # 脚本
 
-*使用 **[Greasyfork](https://greasyfork.org/)** 下载，需要先安装扩展 **[篡改猴测试版](https://chromewebstore.google.com/detail/%E7%AF%A1%E6%94%B9%E7%8C%B4%E6%B5%8B%E8%AF%95%E7%89%88/gcalenpjmijncebpfijmoaglllgpjagf)** 。*
+*需要先安装扩展 **[篡改猴测试版](https://chromewebstore.google.com/detail/%E7%AF%A1%E6%94%B9%E7%8C%B4%E6%B5%8B%E8%AF%95%E7%89%88/gcalenpjmijncebpfijmoaglllgpjagf)***
 
 ## 常用
 
