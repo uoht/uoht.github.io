@@ -28,9 +28,8 @@ sidebar_label: 动画
 
 ## 在线动画
 
-- **[anime1](https://anime1.me/)**
-- **[低端影视](https://ddys.pro/)**
-- **[age动漫](https://www.agedm.vip/)**
+- **[次元城动画](https://www.cycani.org/)**: 有评论
+- **[低端影视](https://ddys.pro/)**: 也有三次元电影和剧集，能用百度夸克下载 
 
 ## R18动画
 

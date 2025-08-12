@@ -33,6 +33,5 @@ sidebar_label: 游戏
 
 ## 论坛
 
-- **[南+](https://south-plus.net/)**: 人最多
 - **[御爱同萌](https://www.ai2.moe/)**: ai汉化首发
-- **[鲲 Galgame](https://www.kungal.com/)**: 最先进，讨论环境好
+- **[鲲 Galgame](https://www.kungal.com/)**: 非常先进，讨论环境好
