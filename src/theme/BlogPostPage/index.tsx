@@ -14,6 +14,7 @@ import TOC from '@theme/TOC';
 import ContentVisibility from '@theme/ContentVisibility';
 import type {Props} from '@theme/BlogPostPage';
 import type {BlogSidebar} from '@docusaurus/plugin-content-blog';
+import Comment from '@site/src/components/comment'; // 导入刚刚封装的组件
 
 function BlogPostPageContent({
   sidebar,
@@ -48,6 +49,7 @@ function BlogPostPageContent({
       {(nextItem || prevItem) && (
         <BlogPostPaginator nextItem={nextItem} prevItem={prevItem} />
       )}
+      <Comment />
     </BlogLayout>
   );
 }

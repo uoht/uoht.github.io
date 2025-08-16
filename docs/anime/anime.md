@@ -31,7 +31,3 @@ sidebar_label: 动画
 - **[E站弹幕网](https://www.ezdmw.site/)**: 有弹幕和评论
 - **[低端影视](https://ddys.pro/)**: 也有三次元电影和剧集，能用百度夸克下载 
 
-## R18动画
-
-- **[hanime](https://hanime1.me/)**: 
-- **[kemono](https://kemono.cr/)**: 英文网站，只有赞助动画，配合 [漫画织机脚本](https://greasyfork.org/zh-CN/scripts/397848-comic-looms) 使用

@@ -4,7 +4,7 @@ sidebar_label: 其他
 ---
 # 其他
 
-*要花钱的东西只推荐返利少、活动少、好评多的，不是广告，可以买之前自行搜索评价。有返利的会标出来*
+*要花钱的东西只推荐返利少、活动少、好评多的，可以买之前自行搜索评价。有返利的会标出来*
 
 ## AI
 
@@ -16,7 +16,7 @@ sidebar_label: 其他
 - **[mnapi](https://www.mnapi.com/register?aff=0MGr)**: API只有最贵的是没问题的(自己说的OpenAI官key中，贵的模型是逆向的)，啥模型都有，1元起充。（通过该链接注册，各得0.5元，点一键注册的按钮不行）
 - **[Cherry Studio](https://www.cherry-ai.com/)**: 客户端
 
-目前一般问题最聪明的是O3，差一点用 GPT-5 或 gimini-2.5-pro ，翻译用 claude-3.5 或 gimini-2.5-pro，质量低的翻译用 gimini flash 或 GPT-5-mini，后者都比前者差一点
+目前最聪明的是O3，差一点用 GPT-5 或 gimini-2.5-pro ，翻译用 claude-3.5 或 gimini-2.5-pro，质量低的翻译用 gimini flash 或 GPT-5-mini，后者都比前者差一点
 
 注意gimini pro必须有思考链参数，要在最新版客户端才能用，可以一个号10个项目轮询，用逗号分隔key就行，不建议多个号一起用
 

@@ -1,7 +1,7 @@
 import { themes as prismThemes } from 'prism-react-renderer';
 import type { Config } from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
-// git add . ; git commit -m "细节优化，更新音乐、动漫" ; git push origin source
+// git add . ; git commit -m "隐藏涩涩内容" ; git push origin source
 // $env:GIT_USER="uoht"; yarn deploy
 // yarn start
 
@@ -53,7 +53,7 @@ const config: Config = {
           //   'https://github.com/uoht/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
         blog: {
-          showReadingTime: true,
+          showReadingTime: false,
           feedOptions: {
             type: ['rss', 'atom'],
             xslt: true,
@@ -121,13 +121,15 @@ const config: Config = {
         { to: 'docs/book', label: '书籍', position: 'left'},
         { to: 'docs/music', label: '音乐', position: 'left'},
         { to: 'docs/game', label: '游戏', position: 'left'},
-        { to: 'docs/general', label: '综合', position: 'left' },
-        { to: 'docs/other', label: '其他', position: 'left'},
+        //{ to: 'docs/general', label: '综合', position: 'left' },
+        { to: 'docs/other', label: '其他', position: 'left' },
         {
           href: 'https://github.com/uoht/uoht.github.io',
           label: 'GitHub',
           position: 'right',
         },
+        { to: 'blog/ero/ero', label: '', position: 'left'},
+
       ],
     },
     // footer: {
