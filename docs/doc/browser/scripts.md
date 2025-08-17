@@ -20,3 +20,9 @@ sidebar_position: 2
 - **[Bilibili Evolved](https://github.com/the1812/Bilibili-Evolved)**: 增强页面
 - **[Bilibili 收藏夹Fix](https://greasyfork.org/zh-CN/scripts/489224)**: 修复失效收藏
 - **[bilibili 直播默认最高画质](https://greasyfork.org/zh-CN/scripts/441090)**: 强制最高画质
+
+## 小书签
+
+在网页上做一些简单的事，如显示星号密码、手机浏览模式、阅读模式、复制网页标题
+
+- **[小书签合集](https://www.runningcheese.com/bookmarklets)**

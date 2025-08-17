@@ -1,7 +1,7 @@
 import { themes as prismThemes } from 'prism-react-renderer';
 import type { Config } from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
-// git add . ; git commit -m "隐藏涩涩内容" ; git push origin source
+// git add . ; git commit -m "添加小书签和萝莉" ; git push origin source
 // $env:GIT_USER="uoht"; yarn deploy
 // yarn start
 
@@ -115,20 +115,21 @@ const config: Config = {
         //   position: 'left',
         //   label: '资源',
         // },
-        { to: 'docs/software', label: '软件', position: 'left'},
-        { to: 'docs/browser', label: '浏览器', position: 'left'},
-        { to: 'docs/anime', label: '动画', position: 'left'},
-        { to: 'docs/book', label: '书籍', position: 'left'},
-        { to: 'docs/music', label: '音乐', position: 'left'},
-        { to: 'docs/game', label: '游戏', position: 'left'},
+        { to: 'docs/doc/software', label: '软件', position: 'left'},
+        { to: 'docs/doc/browser', label: '浏览器', position: 'left'},
+        { to: 'docs/doc/anime', label: '动画', position: 'left'},
+        { to: 'docs/doc/book', label: '书籍', position: 'left'},
+        { to: 'docs/doc/music', label: '音乐', position: 'left'},
+        { to: 'docs/doc/game', label: '游戏', position: 'left'},
         //{ to: 'docs/general', label: '综合', position: 'left' },
-        { to: 'docs/other', label: '其他', position: 'left' },
+        { to: 'docs/doc/other', label: '其他', position: 'left' },
         {
           href: 'https://github.com/uoht/uoht.github.io',
           label: 'GitHub',
           position: 'right',
         },
-        { to: 'blog/ero/ero', label: '', position: 'left'},
+        { to: 'docs/ero/ero', label: '', position: 'left'},
+        { to: 'docs/loli/intro', label: '', position: 'left'},
 
       ],
     },
