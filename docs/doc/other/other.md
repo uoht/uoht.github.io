@@ -22,6 +22,7 @@ sidebar_label: 其他
 
 ## 梯子
 
+- **[数字移民指南](https://shuziyimin.net/)**: 介绍翻墙、Google/Telegram 账号注册教程
 - **[丛雨云](https://congyu.moe/auth/register?invite=215f2e4072)**: 真红小站推荐的，用流量少的建议买￥19.8一年100G的（要被邀请的人累计充1000元才能提100元）
 
 ## 图床

@@ -16,6 +16,7 @@ sidebar_position: 2
 
 - **[羽ACG](https://seve.yugal.cc/)**
 - **[ACG港湾](https://www.acggw.me/)**
+- **[灵梦御所](https://blog.reimu.net/)**: 老游戏在 [mega站点](https://mega.nz/folder/50Yh2TwY#3Uo_m5uSWGpZeOFIX9Sc5Q) 搜索编号下载，新游戏在tg群
 - **[ggbases](https://www.ggbases.com/)**: 需要自己下载汉化补丁
 
 ### 汉化补丁站
@@ -32,7 +33,7 @@ sidebar_position: 2
 只有英文网站，但可以安装脚本或插件汉化
 
 - **[exhentai](https://exhentai.org/)**: 配合 [访问教程](https://nicebowl.fun/11) 和 [漫画织机脚本](https://greasyfork.org/zh-CN/scripts/397848-comic-looms) 和 [汉化插件](https://github.com/EhTagTranslation/EhSyringe) 使用
-- **[yande](https://yande.re/post)**: 配合 [优化脚本](https://sleazyfork.org/zh-CN/scripts/444885-yande-re-%E7%80%91%E5%B8%83%E6%B5%81%E6%B5%8F%E8%A7%88) 使用
+- **[gelbooru](https://gelbooru.com/index.php?page=account&s=options)**/**[yande](https://yande.re/post)**: 配合 [优化脚本](https://sleazyfork.org/zh-CN/scripts/444885-yande-re-%E7%80%91%E5%B8%83%E6%B5%81%E6%B5%8F%E8%A7%88) 使用，后者图片少但质量高
 - **[kemono](https://kemono.cr/)**: 只有赞助的画师CG，也能用 [漫画织机脚本](https://greasyfork.org/zh-CN/scripts/397848-comic-looms)
 
 ## 动画
