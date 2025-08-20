@@ -12,7 +12,7 @@ sidebar_position: 2
 
 ### T0
 
-てぃんくる Tinkle: 大部分是全年龄的
+てぃんくる Tinkle: 大部分是全年龄的 [TwinkleWiki](https://twinkle.kikkaai.com/)
 
 ![tinkle.jpg](https://p.inari.site/usr/1818/689f51a27839c.jpg)
 

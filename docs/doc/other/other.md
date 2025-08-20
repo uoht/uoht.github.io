@@ -22,7 +22,7 @@ sidebar_label: 其他
 
 ## 梯子
 
-- **[丛雨云](https://congyu.moe/auth/register?invite=215f2e4072)**: 真红小站推荐的，用流量少的建议买￥19.8一年100G的（要被邀请的人累计充1000元才能提100元）ios翻墙客户端免费的可以用 [hiddify](https://www.youtube.com/watch?v=qXJkOVJGc6Q)
+- **[丛雨云](https://congyu.moe/auth/register?invite=215f2e4072)**: 真红小站推荐的，用流量少的建议买￥19.8一年100G的（要被邀请的人累计充1000元才能提100元）ios翻墙客户端免费的可以用 [clash mi](https://clashmi.app/)
 - **[白嫖梯子教程](https://www.kungal.com/topic/1841)**: 我没试过，但应该能用
 
 

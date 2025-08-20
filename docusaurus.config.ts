@@ -1,7 +1,7 @@
 import { themes as prismThemes } from 'prism-react-renderer';
 import type { Config } from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
-// git add . ; git commit -m "更新ero" ; git push origin source
+// git add . ; git commit -m "修改logo,减少logo大小,添加萝莉其他" ; git push origin source
 // $env:GIT_USER="uoht"; yarn deploy
 // yarn start
 
@@ -106,7 +106,7 @@ const config: Config = {
       title: 'uoht',
       logo: {
         alt: 'uoht Logo',
-        src: 'img/logo.svg',
+        src: 'img/logo.jpg',
       },
       items: [
         // {
@@ -115,12 +115,12 @@ const config: Config = {
         //   position: 'left',
         //   label: '资源',
         // },
-        { to: 'docs/doc/software', label: '软件', position: 'left'},
-        { to: 'docs/doc/browser', label: '浏览器', position: 'left'},
-        { to: 'docs/doc/anime', label: '动画', position: 'left'},
-        { to: 'docs/doc/book', label: '书籍', position: 'left'},
-        { to: 'docs/doc/music', label: '音乐', position: 'left'},
-        { to: 'docs/doc/game', label: '游戏', position: 'left'},
+        { to: 'docs/doc/software', label: '软件', position: 'left' },
+        { to: 'docs/doc/browser', label: '浏览器', position: 'left' },
+        { to: 'docs/doc/anime', label: '动画', position: 'left' },
+        { to: 'docs/doc/book', label: '书籍', position: 'left' },
+        { to: 'docs/doc/music', label: '音乐', position: 'left' },
+        { to: 'docs/doc/game', label: '游戏', position: 'left' },
         //{ to: 'docs/general', label: '综合', position: 'left' },
         { to: 'docs/doc/other', label: '其他', position: 'left' },
         {
@@ -128,8 +128,8 @@ const config: Config = {
           label: 'GitHub',
           position: 'right',
         },
-        { to: 'docs/ero/ero', label: '', position: 'left'},
-        { to: 'docs/loli/intro', label: '', position: 'left'},
+        { to: 'docs/ero/ero', label: '', position: 'left' },
+        { to: 'docs/loli/intro', label: '', position: 'left' },
 
       ],
     },
