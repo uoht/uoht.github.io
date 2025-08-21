@@ -114,7 +114,7 @@ nicknikg
 
 ![nicknikg.webp](https://p.inari.site/usr/1818/68a11b584e653.webp)
 
-あらた
+あらた arata_(xin)
 
 ![あらた.webp](https://p.inari.site/usr/1818/68a11b5861fc5.webp)
 
@@ -125,3 +125,15 @@ comodox
 セトマン Setmen
 
 ![セトマン Setmen.webp](https://p.inari.site/usr/1818/68a11eb2bf15b.webp)
+
+ミロン merong_(sou47897)
+
+![ミロン merong_(sou47897).webp](https://p.inari.site/usr/1818/68a6a830f3d73.webp)
+
+萩 hagi
+
+![萩_hagi.webp](https://p.inari.site/usr/1818/68a6a82fd9bfd.webp)
+
+瀬世ナギ sese_nagi
+
+![瀬世ナギ sese_nagi.webp](https://p.inari.site/usr/1818/68a6a8313ec79.webp)
