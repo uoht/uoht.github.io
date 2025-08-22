@@ -20,7 +20,7 @@ sidebar_position: 2
 - **[BCUninstaller](https://www.coolexe.com/1248.html)**: 卸载软件，支持绿色软件
 - **[coodesker](https://www.puresys.net/2351.html)**: 桌面整理工具
 - **[Free Download Manager](https://www.puresys.net/1525.html)**: 多线程断点下载
-- **[WinRAR](https://www.puresys.net/334.html)**: 解压软件
+- **[Bandizip](https://www.puresys.net/412.html)**: 解压软件，支持密码管理、智能解压
 - **[迅雷](https://www.puresys.net/311.html)**: 种子下载快，上传可以用比特彗星
 - **[Catime](https://github.com/vladelaina/Catime)**: 计时器
 - **[Snipaste](https://www.puresys.net/1106.html)**: 截图&贴图
@@ -35,7 +35,7 @@ sidebar_position: 2
 
 ## 音画
 
-- **[2345看图王](https://www.puresys.net/314.html)**: 可以滚轮缩放
+- **[BandiView](https://www.puresys.net/724.html)**: 可以滚轮缩放的图像查看器，很快
 - **[Adobe Acrobat](https://www.itrmb.com/thread-3834.htm)**: PDF
 - **[PotPlayer](https://www.puresys.net/670.html)**: 视频播放器，可设置播放列表
-- **[Dopamine](https://github.com/digimezzo/dopamine-windows)**: 本地音乐播放器
+- **[AIMP](https://www.puresys.net/4652.html)**: 本地音乐播放器，配合Soot皮肤无敌，非常流畅
