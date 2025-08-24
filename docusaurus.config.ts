@@ -1,7 +1,7 @@
 import { themes as prismThemes } from 'prism-react-renderer';
 import type { Config } from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
-// git add . ; git commit -m "软件" ; git push origin source
+// git add . ; git commit -m "更新动画，画师分页" ; git push origin source
 // $env:GIT_USER="uoht"; yarn deploy
 // yarn start
 

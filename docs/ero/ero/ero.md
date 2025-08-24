@@ -4,6 +4,10 @@ sidebar_position: 2
 
 # 涩涩
 
+## 通用
+
+- **[灵梦御所](https://blog.reimu.net/)**: 老资源在 [mega站点](https://mega.nz/folder/50Yh2TwY#3Uo_m5uSWGpZeOFIX9Sc5Q) 搜索编号下载，新资源在tg群([telegram访问方法](https://linux.do/t/topic/51331/74))
+
 ## 游戏
 
 ### galgame
@@ -14,7 +18,6 @@ sidebar_position: 2
 
 ### 同人游戏
 
-- **[灵梦御所](https://blog.reimu.net/)**: 老游戏在 [mega站点](https://mega.nz/folder/50Yh2TwY#3Uo_m5uSWGpZeOFIX9Sc5Q) 搜索编号下载，新游戏在tg群([telegram访问方法](https://linux.do/t/topic/51331/74))
 - **[羽ACG](https://seve.yugal.cc/)**
 - **[ACG港湾](https://www.acggw.me/)**
 - **[ggbases](https://www.ggbases.com/)**: 需要自己下载汉化补丁
@@ -42,7 +45,6 @@ sidebar_position: 2
 
 - **[hanime](https://hanime1.me/)**
 - **[kemono](https://kemono.cr/)**: 只有赞助动画
-
 
 ## 其他
 
