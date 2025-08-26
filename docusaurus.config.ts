@@ -1,9 +1,11 @@
 import { themes as prismThemes } from 'prism-react-renderer';
 import type { Config } from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
-// git add . ; git commit -m "更新梯子" ; git push origin source
+// git add . ; git commit -m "更新配色" ; git push origin source
 // $env:GIT_USER="uoht"; yarn deploy
 // yarn start
+// npm run docusaurus build
+// npm run docusaurus serve
 
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
@@ -83,14 +85,10 @@ const config: Config = {
         hashed: true,
 
         // 如果文档使用中文，建议设置：
-        language: ["en", "zh"],
+        language: ["ja"],
 
-        // 自定义搜索栏快捷键（默认是 "mod+k"）：
-        // searchBarShortcutKeymap: "s", // 使用 'S' 键
-        // searchBarShortcutKeymap: "ctrl+shift+f", // 使用 Ctrl+Shift+F
-
-        // 如果你使用了 `noIndex: true`，设置 `forceIgnoreNoIndex` 来启用本地索引：
-        // forceIgnoreNoIndex: true,
+        highlightSearchTermsOnTargetPage: true,
+        explicitSearchResultPath: true,
       }),
     ],
   ],
