@@ -1,7 +1,7 @@
 import { themes as prismThemes } from 'prism-react-renderer';
 import type { Config } from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
-// git add . ; git commit -m "更新配色" ; git push origin source
+// git add . ; git commit -m "直接展示隐藏内容" ; git push origin source
 // $env:GIT_USER="uoht"; yarn deploy
 // yarn start
 // npm run docusaurus build
@@ -82,10 +82,8 @@ const config: Config = {
       require.resolve("@easyops-cn/docusaurus-search-local"),
       /** @type {import("@easyops-cn/docusaurus-search-local").PluginOptions} */
       ({
-        // `hashed` 推荐用于索引文件的长期缓存
         hashed: true,
 
-        // 如果文档使用中文，建议设置：
         language: ["ja"],
 
         highlightSearchTermsOnTargetPage: true,
@@ -120,6 +118,7 @@ const config: Config = {
         { to: 'docs/doc/book', label: '书籍', position: 'left' },
         { to: 'docs/doc/music', label: '音乐', position: 'left' },
         { to: 'docs/doc/game', label: '游戏', position: 'left' },
+        { to: 'docs/doc/ero', label: '涩涩', position: 'left' },
         //{ to: 'docs/general', label: '综合', position: 'left' },
         { to: 'docs/doc/other', label: '其他', position: 'left' },
         {
@@ -127,8 +126,8 @@ const config: Config = {
           label: 'GitHub',
           position: 'right',
         },
-        { to: 'docs/ero/ero', label: '', position: 'left' },
-        { to: 'docs/loli/intro', label: '', position: 'left' },
+        //{ to: 'docs/ero/ero', label: '', position: 'left' },
+        { to: 'docs/loli/intro', label: '萝莉', position: 'left' },
 
       ],
     },

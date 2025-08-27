@@ -24,8 +24,7 @@ sidebar_label: 其他
 
 ios翻墙客户端免费的可以用 [clash mi](https://clashmi.app/)
 
-- **[丛雨云](https://congyu.moe/auth/register?invite=215f2e4072)**: 真红小站推荐的，用流量少的建议买￥19.8一年100G的(要被邀请的人累计充1000元才能提100元)(平时可以，快阅兵了就开卡了，所有节点都卡，还是买个好点的吧。。。)
-- **[毒药ss机场测速](https://www.duyaoss.com/archives/1/)**: 这个站有机场质量从高到低的排名，我看到第一个按量付费的是CreamData，99元1年220G，虽然比丛雨云贵2.5倍，但是快阅兵了也不卡，可以买个9.9元一周20G的试试
+- **[丛雨云](https://congyu.moe/auth/register?invite=215f2e4072)**: 真红小站推荐的，用流量少的建议买￥19.8一年100G的(要被邀请的人累计充1000元才能提100元)(有时会卡，但没有完全用不了过)
 - **[白嫖梯子教程](https://www.kungal.com/topic/1841)**: 我没试过，但应该能用
 
 

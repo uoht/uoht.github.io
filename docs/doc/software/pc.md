@@ -6,7 +6,6 @@ sidebar_position: 2
 
 *主要是冷门的，常用的比如QQ就不写了*
 
-
 ## 系统
 
 - **[StartAllBack](https://www.puresys.net/4973.html)**: Win11开始菜单增强
@@ -25,6 +24,7 @@ sidebar_position: 2
 - **[Catime](https://github.com/vladelaina/Catime)**: 计时器
 - **[Snipaste](https://www.puresys.net/1106.html)**: 截图&贴图
 - **[OBS](https://obsproject.com/)**: 录屏&直播
+- **[chrome++](https://www.coolexe.com/308.html)**: 比火狐快，且添加了实用功能
 
 ## 游戏
 
@@ -38,4 +38,4 @@ sidebar_position: 2
 - **[BandiView](https://www.puresys.net/724.html)**: 可以滚轮缩放的图像查看器，很快
 - **[Adobe Acrobat](https://www.itrmb.com/thread-3834.htm)**: PDF
 - **[PotPlayer](https://www.puresys.net/670.html)**: 视频播放器，可设置播放列表
-- **[AIMP](https://www.puresys.net/4652.html)**: 本地音乐播放器，配合Soot皮肤无敌，非常流畅
+- **[AIMP](https://www.puresys.net/4652.html)**: 本地音乐播放器，建议用Soot皮肤

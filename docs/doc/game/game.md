@@ -14,3 +14,25 @@ sidebar_label: 游戏
 
 - **[掌机迷](https://www.gbarom.cn/moniqi)**: 下载模拟器，游戏要5块才能下
 - **[老男人游戏网配套论坛](https://bbs.oldmantvg.net/)**: 用搜索功能下载游戏
+
+## galgame
+
+- **[梓澪の妙妙屋](https://zi0.cc/)**
+- **[真红小站](https://www.shinnku.com/)**
+- **[TouchGal](https://www.touchgal.us/)**: 有预览，但没有冷门资源
+
+## 同人游戏
+
+- **[羽ACG](https://seve.yugal.cc/)**
+- **[ACG港湾](https://www.acggw.me/)**
+- **[ggbases](https://www.ggbases.com/)**: 需要自己下载汉化补丁
+
+## 汉化补丁站
+
+- **[鲲 Galgame 补丁](https://www.moyu.moe/)**
+
+## 论坛
+
+- **[御爱同萌](https://www.ai2.moe/)**: ai汉化首发
+- **[鲲 Galgame](https://www.kungal.com/)**: 非常先进，讨论环境好
+- **[绯月 ScarletMoon](https://bbs.kfpromax.com/index.php)**: 人最多

@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2
+sidebar_position: 8
 ---
 
 # 涩涩
@@ -7,30 +7,6 @@ sidebar_position: 2
 ## 通用
 
 - **[灵梦御所](https://blog.reimu.net/)**: 老资源在 [mega站点](https://mega.nz/folder/50Yh2TwY#3Uo_m5uSWGpZeOFIX9Sc5Q) 搜索编号下载，新资源在tg群([telegram访问方法](https://linux.do/t/topic/51331/74))
-
-## 游戏
-
-### galgame
-
-- **[梓澪の妙妙屋](https://zi0.cc/)**
-- **[真红小站](https://www.shinnku.com/)**
-- **[TouchGal](https://www.touchgal.us/)**: 有预览，但没有冷门资源
-
-### 同人游戏
-
-- **[羽ACG](https://seve.yugal.cc/)**
-- **[ACG港湾](https://www.acggw.me/)**
-- **[ggbases](https://www.ggbases.com/)**: 需要自己下载汉化补丁
-
-### 汉化补丁站
-
-- **[鲲 Galgame 补丁](https://www.moyu.moe/)**
-
-### 论坛
-
-- **[御爱同萌](https://www.ai2.moe/)**: ai汉化首发
-- **[鲲 Galgame](https://www.kungal.com/)**: 非常先进，讨论环境好
-- **[绯月 ScarletMoon](https://bbs.kfpromax.com/index.php)**: 人最多
 
 ## 插画
 

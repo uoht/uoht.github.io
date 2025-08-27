@@ -48,6 +48,9 @@ html[data-theme='dark'] {
   --site-color-feedback-background: #2a2929;
 }
 
+img {
+  border-radius: 7px;
+}
 /* ---------- 常用工具类 / 组件重写 ---------- */
 
 /* 无障碍：仅屏幕阅读器可见 */
