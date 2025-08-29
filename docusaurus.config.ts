@@ -1,7 +1,7 @@
 import { themes as prismThemes } from 'prism-react-renderer';
 import type { Config } from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
-// git add . ; git commit -m "直接展示隐藏内容" ; git push origin source
+// git add . ; git commit -m "加深侧边栏字体" ; git push origin source
 // $env:GIT_USER="uoht"; yarn deploy
 // yarn start
 // npm run docusaurus build
@@ -127,7 +127,7 @@ const config: Config = {
           position: 'right',
         },
         //{ to: 'docs/ero/ero', label: '', position: 'left' },
-        { to: 'docs/loli/intro', label: '萝莉', position: 'left' },
+        { to: 'docs/loli', label: '萝莉', position: 'left' },
 
       ],
     },

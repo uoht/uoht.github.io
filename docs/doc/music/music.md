@@ -13,5 +13,7 @@ sidebar_label: 音乐
 
 ## 游戏音乐
 
+会缺歌曲信息，建议实在不行再尝试
+
 - **[khinsider](https://downloads.khinsider.com/)**: 英文网站，配合 [下载脚本](https://greasyfork.org/zh-CN/scripts/424015-vgmloaderx) 使用
 - **[Zophar's Domain](https://www.zophar.net/music)**: 英文网站
