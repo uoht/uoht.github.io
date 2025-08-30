@@ -4,7 +4,7 @@ sidebar_label: 音乐
 ---
 # 音乐
 
-*在线听的话也可以用youtube，B站会把音质压成屎*
+*在线听的话也可以用youtube，B站会压音质*
 
 - **[GD音乐台](https://music.gdstudio.xyz/)**: 网易云、QQ、酷我都有，能批量下载
 - **[酷我音乐破解](https://www.itrmb.com/thread-3034.htm)**: 冷门音乐不全

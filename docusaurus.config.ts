@@ -1,7 +1,7 @@
 import { themes as prismThemes } from 'prism-react-renderer';
 import type { Config } from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
-// git add . ; git commit -m "加深侧边栏字体" ; git push origin source
+// git add . ; git commit -m "修改标题" ; git push origin source
 // $env:GIT_USER="uoht"; yarn deploy
 // yarn start
 // npm run docusaurus build
@@ -10,7 +10,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
-  title: 'uoht的小站',
+  title: 'uoht',
   tagline: 'Ciallo～(∠・ω< )⌒☆',
   favicon: 'img/favicon.ico',
 
@@ -121,13 +121,14 @@ const config: Config = {
         { to: 'docs/doc/ero', label: '涩涩', position: 'left' },
         //{ to: 'docs/general', label: '综合', position: 'left' },
         { to: 'docs/doc/other', label: '其他', position: 'left' },
+        { to: 'docs/loli', label: '萝莉', position: 'left' },
         {
           href: 'https://github.com/uoht/uoht.github.io',
           label: 'GitHub',
           position: 'right',
         },
         //{ to: 'docs/ero/ero', label: '', position: 'left' },
-        { to: 'docs/loli', label: '萝莉', position: 'left' },
+
 
       ],
     },
