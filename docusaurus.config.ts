@@ -1,7 +1,7 @@
 import { themes as prismThemes } from 'prism-react-renderer';
 import type { Config } from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
-// git add . ; git commit -m "测试" ; git push origin source ; $env:GIT_USER="uoht"; yarn deploy
+// git add . ; git commit -m "改为仅文档模式" ; git push origin source ; $env:GIT_USER="uoht"; yarn deploy
 // yarn start
 // npm run docusaurus build
 // npm run docusaurus serve
@@ -47,34 +47,54 @@ const config: Config = {
       'classic',
       {
         docs: {
+          routeBasePath: '/',
           sidebarPath: './sidebars.ts',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           // editUrl:
           //   'https://github.com/uoht/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
-        blog: {
-          showReadingTime: false,
-          feedOptions: {
-            type: ['rss', 'atom'],
-            xslt: true,
-          },
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          // editUrl:
-          //   'https://github.com/uoht/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-          // Useful options to enforce blogging best practices
-          onInlineTags: 'warn',
-          onInlineAuthors: 'warn',
-          onUntruncatedBlogPosts: 'warn',
-        },
+        blog: false,
+        // {
+        //   showReadingTime: false,
+        //   feedOptions: {
+        //     type: ['rss', 'atom'],
+        //     xslt: true,
+        //   },
+        //   // Please change this to your repo.
+        //   // Remove this to remove the "edit this page" links.
+        //   // editUrl:
+        //   //   'https://github.com/uoht/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+        //   // Useful options to enforce blogging best practices
+        //   onInlineTags: 'warn',
+        //   onInlineAuthors: 'warn',
+        //   onUntruncatedBlogPosts: 'warn',
+        // },
         theme: {
           customCss: './src/css/custom.scss',
         },
       } satisfies Preset.Options,
     ],
   ],
-  plugins: ['docusaurus-plugin-sass'],
+  plugins: [
+  //   [
+  //   '@docusaurus/plugin-client-redirects',
+  //   {
+  //     redirects: [
+  //       // /docs/oldDoc -> /docs/newDoc
+  //       {
+  //         to: '/docs/doc',
+  //         from: '/',
+  //       },
+  //       // Redirect from multiple old paths to the new path
+  //       // {
+  //       //   to: '/docs/newDoc2',
+  //       //   from: ['/docs/oldDocFrom2019', '/docs/legacyDocFrom2016'],
+  //       // },
+  //     ],
+  //   },
+  // ],
+    'docusaurus-plugin-sass'],
   themes: [
     // ... 你的其他主题
     [
@@ -82,7 +102,7 @@ const config: Config = {
       /** @type {import("@easyops-cn/docusaurus-search-local").PluginOptions} */
       ({
         hashed: true,
-
+        docsRouteBasePath: "/",
         language: ["ja"],
 
         highlightSearchTermsOnTargetPage: true,
@@ -111,16 +131,16 @@ const config: Config = {
         //   position: 'left',
         //   label: '资源',
         // },
-        { to: 'docs/doc/software', label: '软件', position: 'left' },
-        { to: 'docs/doc/browser', label: '浏览器', position: 'left' },
-        { to: 'docs/doc/anime', label: '动画', position: 'left' },
-        { to: 'docs/doc/book', label: '书籍', position: 'left' },
-        { to: 'docs/doc/music', label: '音乐', position: 'left' },
-        { to: 'docs/doc/game', label: '游戏', position: 'left' },
-        { to: 'docs/doc/ero', label: '涩涩', position: 'left' },
+        { to: 'software', label: '软件', position: 'left' },
+        { to: 'browser', label: '浏览器', position: 'left' },
+        { to: 'anime', label: '动画', position: 'left' },
+        { to: 'book', label: '书籍', position: 'left' },
+        { to: 'music', label: '音乐', position: 'left' },
+        { to: 'game', label: '游戏', position: 'left' },
+        { to: 'ero', label: '涩涩', position: 'left' },
         //{ to: 'docs/general', label: '综合', position: 'left' },
-        { to: 'docs/doc/other', label: '其他', position: 'left' },
-        { to: 'docs/loli', label: '萝莉', position: 'left' },
+        { to: 'other', label: '其他', position: 'left' },
+        { to: 'loli', label: '萝莉', position: 'left' },
         {
           href: 'https://github.com/uoht/uoht.github.io',
           label: 'GitHub',
