@@ -1,7 +1,7 @@
 import { themes as prismThemes } from 'prism-react-renderer';
 import type { Config } from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
-// git add . ; git commit -m "修改sitemap" ; git push origin source ; $env:GIT_USER="uoht"; yarn deploy
+// git add . ; git commit -m "修复侧边栏和去掉搜索manga" ; git push origin source ; $env:GIT_USER="uoht"; yarn deploy
 // yarn start
 // npm run docusaurus build
 // npm run docusaurus serve
@@ -104,7 +104,7 @@ const config: Config = {
         hashed: true,
         docsRouteBasePath: "/",
         language: ["ja"],
-
+        ignoreFiles: ["manga"],
         highlightSearchTermsOnTargetPage: true,
         explicitSearchResultPath: true,
       }),
