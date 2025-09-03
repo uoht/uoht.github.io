@@ -38,4 +38,4 @@ sidebar_position: 8
   
 ### 磁力
 
-- **[sukebei](https://sukebei.nyaa.si)**
+- **[NYAA](https://sukebei.nyaa.si)**
