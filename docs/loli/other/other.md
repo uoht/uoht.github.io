@@ -11,5 +11,5 @@ sidebar_position: 99
 - **[南+大佬推荐的3D作品](https://white-plus.net/read.php?tid-2316312-keyword-%E8%90%9D%E8%8E%89.html)**
 - **[bangumi大佬的最全整理](https://bgm.tv/index/25513)**
 - **[anime-sharing论坛的讨论](https://www.anime-sharing.com/threads/loli-discussion-and-sharing.1651746/)**
-- **[morian.icu的部分色图和MMD](https://openlist.sunshineboy.top/%E8%89%B2%E5%9B%BE)**
+- **[morian.icu的部分色图和MMD](https://openlist.sunshineboy.top/%E8%89%B2%E5%9B%BE)**: 有磁力链接
   

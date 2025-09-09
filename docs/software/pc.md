@@ -37,5 +37,5 @@ sidebar_position: 2
 
 - **[BandiView](https://www.puresys.net/724.html)**: 可以滚轮缩放的图像查看器，很快
 - **[Adobe Acrobat](https://www.itrmb.com/thread-3834.htm)**: PDF
-- **[PotPlayer](https://www.puresys.net/670.html)**: 视频播放器，可设置播放列表
+- **[PotPlayer](https://www.52pojie.cn/thread-1095822-1-1.html)**: 视频播放器，可设置播放列表，建议用该版本，有madVR+LAV+默认设置
 - **[AIMP](https://www.puresys.net/4652.html)**: 本地音乐播放器，建议用Soot皮肤
