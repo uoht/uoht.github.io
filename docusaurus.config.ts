@@ -1,7 +1,7 @@
 import { themes as prismThemes } from 'prism-react-renderer';
 import type { Config } from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
-// git add . ; git commit -m "更新名字和关于本站、侧边栏自动收起" ; git push origin source ; $env:GIT_USER="uoht"; yarn deploy
+// git add . ; git commit -m "拆分浏览器" ; git push origin source ; $env:GIT_USER="uoht"; yarn deploy
 // yarn start
 // npm run docusaurus build
 // npm run docusaurus serve
@@ -138,7 +138,8 @@ const config: Config = {
         //   label: '资源',
         // },
         { to: 'software', label: '软件', position: 'left' },
-        { to: 'browser', label: '浏览器', position: 'left' },
+        { to: 'extension', label: '扩展', position: 'left' },
+        { to: 'script', label: '脚本', position: 'left' },
         { to: 'tool', label: '工具', position: 'left' },
         { to: 'anime', label: '动画', position: 'left' },
         { to: 'book', label: '书籍', position: 'left' },
