@@ -1,7 +1,7 @@
 import { themes as prismThemes } from 'prism-react-renderer';
 import type { Config } from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
-// git add . ; git commit -m "更新potplayer" ; git push origin source ; $env:GIT_USER="uoht"; yarn deploy
+// git add . ; git commit -m "更新名字和关于本站、侧边栏自动收起" ; git push origin source ; $env:GIT_USER="uoht"; yarn deploy
 // yarn start
 // npm run docusaurus build
 // npm run docusaurus serve
@@ -113,6 +113,12 @@ const config: Config = {
   themeConfig: {
     // Replace with your project's social card
     //image: 'img/docusaurus-social-card.jpg',
+    docs: {
+      sidebar: {
+        // hideable: true,
+        autoCollapseCategories: true,
+      },
+    },
     colorMode: {
       defaultMode: 'dark',
       disableSwitch: false,
@@ -133,13 +139,13 @@ const config: Config = {
         // },
         { to: 'software', label: '软件', position: 'left' },
         { to: 'browser', label: '浏览器', position: 'left' },
+        { to: 'other', label: '工具', position: 'left' },
         { to: 'anime', label: '动画', position: 'left' },
         { to: 'book', label: '书籍', position: 'left' },
         { to: 'music', label: '音乐', position: 'left' },
         { to: 'game', label: '游戏', position: 'left' },
         { to: 'ero', label: '涩涩', position: 'left' },
         //{ to: 'docs/general', label: '综合', position: 'left' },
-        { to: 'other', label: '其他', position: 'left' },
         { to: 'loli', label: '萝莉', position: 'left' },
         {
           href: 'https://github.com/uoht/uoht.github.io',
