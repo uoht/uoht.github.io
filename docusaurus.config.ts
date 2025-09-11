@@ -139,7 +139,7 @@ const config: Config = {
         // },
         { to: 'software', label: '软件', position: 'left' },
         { to: 'browser', label: '浏览器', position: 'left' },
-        { to: 'other', label: '工具', position: 'left' },
+        { to: 'tool', label: '工具', position: 'left' },
         { to: 'anime', label: '动画', position: 'left' },
         { to: 'book', label: '书籍', position: 'left' },
         { to: 'music', label: '音乐', position: 'left' },
