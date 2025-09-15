@@ -4,4 +4,10 @@ sidebar_position: 9999
 
 # 萝莉
 
-[萌娘百科](https://zh.moegirl.org.cn/%E8%90%9D%E8%8E%89) 的定义：身高范围在130至160厘米之间，头身比在四至六之间，面相幼齿的女性角色即可归入萝莉范畴。通常“萝莉”在ACG圈内仅用于指代 **二次元** 世界中的萝莉。
+只分享质量高的二次元萝莉作品
+
+```mdx-code-block
+import DocCardList from '@theme/DocCardList';
+
+<DocCardList />
+```

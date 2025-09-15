@@ -1,7 +1,7 @@
 import { themes as prismThemes } from 'prism-react-renderer';
 import type { Config } from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
-// git add . ; git commit -m "拆分浏览器" ; git push origin source ; $env:GIT_USER="uoht"; yarn deploy
+// git add . ; git commit -m "更新萝莉，修复日文搜索" ; git push origin source ; $env:GIT_USER="uoht"; yarn deploy
 // yarn start
 // npm run docusaurus build
 // npm run docusaurus serve
@@ -39,7 +39,9 @@ const config: Config = {
   // may want to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'zh-Hans',
-    locales: ['zh-Hans'],
+    locales: ['zh-Hans', 'en', 'ja'],
+    // defaultLocale: 'zh-Hans',
+    // locales: ['zh-Hans'],
   },
 
   presets: [
@@ -77,23 +79,23 @@ const config: Config = {
     ],
   ],
   plugins: [
-  //   [
-  //   '@docusaurus/plugin-client-redirects',
-  //   {
-  //     redirects: [
-  //       // /docs/oldDoc -> /docs/newDoc
-  //       {
-  //         to: '/docs/doc',
-  //         from: '/',
-  //       },
-  //       // Redirect from multiple old paths to the new path
-  //       // {
-  //       //   to: '/docs/newDoc2',
-  //       //   from: ['/docs/oldDocFrom2019', '/docs/legacyDocFrom2016'],
-  //       // },
-  //     ],
-  //   },
-  // ],
+    //   [
+    //   '@docusaurus/plugin-client-redirects',
+    //   {
+    //     redirects: [
+    //       // /docs/oldDoc -> /docs/newDoc
+    //       {
+    //         to: '/docs/doc',
+    //         from: '/',
+    //       },
+    //       // Redirect from multiple old paths to the new path
+    //       // {
+    //       //   to: '/docs/newDoc2',
+    //       //   from: ['/docs/oldDocFrom2019', '/docs/legacyDocFrom2016'],
+    //       // },
+    //     ],
+    //   },
+    // ],
     'docusaurus-plugin-sass'],
   themes: [
     // ... 你的其他主题
@@ -103,7 +105,7 @@ const config: Config = {
       ({
         hashed: true,
         docsRouteBasePath: "/",
-        language: ["ja"],
+        language: ["ja", "en", "zh"],
         //ignoreFiles: ["manga"],
         highlightSearchTermsOnTargetPage: true,
         explicitSearchResultPath: true,
