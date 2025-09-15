@@ -1,7 +1,7 @@
 import { themes as prismThemes } from 'prism-react-renderer';
 import type { Config } from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
-// git add . ; git commit -m "更新萝莉，修复日文搜索" ; git push origin source ; $env:GIT_USER="uoht"; yarn deploy
+// git add . ; git commit -m "删掉日文搜索" ; git push origin source ; $env:GIT_USER="uoht"; yarn deploy
 // yarn start
 // npm run docusaurus build
 // npm run docusaurus serve
@@ -39,9 +39,7 @@ const config: Config = {
   // may want to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'zh-Hans',
-    locales: ['zh-Hans', 'en', 'ja'],
-    // defaultLocale: 'zh-Hans',
-    // locales: ['zh-Hans'],
+    locales: ['zh-Hans'],
   },
 
   presets: [
@@ -98,17 +96,19 @@ const config: Config = {
     // ],
     'docusaurus-plugin-sass'],
   themes: [
-    // ... 你的其他主题
     [
       require.resolve("@easyops-cn/docusaurus-search-local"),
       /** @type {import("@easyops-cn/docusaurus-search-local").PluginOptions} */
       ({
-        hashed: true,
+        hashed: "filename",
         docsRouteBasePath: "/",
-        language: ["ja", "en", "zh"],
-        //ignoreFiles: ["manga"],
-        highlightSearchTermsOnTargetPage: true,
+        language: ["en", "zh"],
+        // zhUserDictPath: "./src/zh-dict.txt",
+        // ignoreFiles: ["manga"],
+        // highlightSearchTermsOnTargetPage: true,
         explicitSearchResultPath: true,
+        // removeDefaultStopWordFilter: ["en", "zh"],
+        // removeDefaultStemmer: true,
       }),
     ],
   ],
