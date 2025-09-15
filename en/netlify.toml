@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "https://uoht.netlify.app/*"
+  to = "https://uoht.moe/:splat"
+  status = 301
+  force = true
