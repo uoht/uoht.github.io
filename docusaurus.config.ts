@@ -1,7 +1,7 @@
 import { themes as prismThemes } from 'prism-react-renderer';
 import type { Config } from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
-// git add . ; git commit -m "删掉日文搜索" ; git push origin source ; $env:GIT_USER="uoht"; yarn deploy
+// git add . ; git commit -m "音乐软件" ; git push origin source ; $env:GIT_USER="uoht"; yarn deploy
 // yarn start
 // npm run docusaurus build
 // npm run docusaurus serve

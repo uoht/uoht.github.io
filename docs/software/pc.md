@@ -22,7 +22,7 @@ sidebar_position: 2
 - **[Bandizip](https://www.puresys.net/412.html)**: 解压软件，支持密码管理、智能解压
 - **[迅雷](https://www.puresys.net/311.html)**: 种子下载快，上传可以用比特彗星
 - **[Catime](https://github.com/vladelaina/Catime)**: 计时器
-- **[Snipaste](https://www.puresys.net/1106.html)**: 截图&贴图
+- **[Snipaste](https://4fb.cn/soft/pc/2622.html)**: 截图&贴图
 - **[OBS](https://obsproject.com/)**: 录屏&直播
 - **[chrome++](https://www.coolexe.com/308.html)**: 比火狐快，且添加了实用功能
 
@@ -38,4 +38,5 @@ sidebar_position: 2
 - **[BandiView](https://www.puresys.net/724.html)**: 可以滚轮缩放的图像查看器，很快
 - **[Adobe Acrobat](https://www.itrmb.com/thread-3834.htm)**: PDF
 - **[PotPlayer](https://www.52pojie.cn/thread-1095822-1-1.html)**: 视频播放器，可设置播放列表，建议用该版本，有madVR+LAV+默认设置
-- **[AIMP](https://www.puresys.net/4652.html)**: 本地音乐播放器，建议用Soot皮肤
+- **[AIMP](https://www.puresys.net/4652.html)**: 本地音乐播放器，建议用M5皮肤
+- **[Mp3tag](https://www.puresys.net/4652.html)**: 音乐标签编辑，也能根据标签改文件名
