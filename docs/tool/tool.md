@@ -23,8 +23,8 @@ sidebar_position: 3
 
 ios翻墙客户端免费的可以用 [clash mi](https://clashmi.app/)
 
-- **[丛雨云](https://congyu.moe/auth/register?invite=215f2e4072)**: 真红小站推荐的，用流量少的建议买￥19.8一年100G的(要被邀请的人累计充1000元才能提100元)(目前质量不错，有时会卡，需要切换节点或更新订阅)
-- **[白嫖梯子教程](https://www.kungal.com/topic/1841)**
+- **[Kerry的免费机场推荐](https://kerrynotes.com/free-proxy-vpn/#toc10)**: 也可以在魔戒买个1元2G的备用
+- **[奶油机场](https://creamdata.net/#pricing)**: 这个没有返利，也比较低调，建议宁愿买贵的稳定的机场，便宜的卡起来很难受
 
 ## 图床
 
