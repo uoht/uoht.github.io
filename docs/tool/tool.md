@@ -24,7 +24,7 @@ sidebar_position: 3
 ios翻墙客户端免费的可以用 [clash mi](https://clashmi.app/)
 
 - **[Kerry的免费机场推荐](https://kerrynotes.com/free-proxy-vpn/#toc10)**: 也可以在魔戒买个1元2G的备用
-- **[奶油机场](https://creamdata.net/#pricing)**: 这个没有返利，也比较低调，建议宁愿买贵的稳定的机场，便宜的卡起来很难受
+- **[奶油机场](https://creamdata.net/#pricing)**: 没有返利，也比较低调，建议宁愿买贵的稳定的机场，便宜的卡起来很难受，可以参考[毒药SS](https://www.duyaoss.com/archives/2934/)
 
 ## 图床
 
