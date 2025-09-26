@@ -1,7 +1,7 @@
 import { themes as prismThemes } from 'prism-react-renderer';
 import type { Config } from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
-// git add . ; git commit -m "画师" ; git push origin source ; $env:GIT_USER="uoht"; yarn deploy
+// git add . ; git commit -m "添加更新日期" ; git push origin source ; $env:GIT_USER="uoht"; yarn deploy
 // yarn start
 // npm run docusaurus build
 // npm run docusaurus serve
@@ -32,7 +32,7 @@ const config: Config = {
   trailingSlash: false, // 添加这一行，解决 URL 斜杠警告
 
   onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
+  //onBrokenMarkdownLinks: 'warn',
 
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
@@ -49,27 +49,29 @@ const config: Config = {
         docs: {
           routeBasePath: '/',
           sidebarPath: './sidebars.ts',
+          showLastUpdateTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           // editUrl:
           //   'https://github.com/uoht/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
-        blog: false,
-        // {
-        //   showReadingTime: false,
-        //   feedOptions: {
-        //     type: ['rss', 'atom'],
-        //     xslt: true,
-        //   },
-        //   // Please change this to your repo.
-        //   // Remove this to remove the "edit this page" links.
-        //   // editUrl:
-        //   //   'https://github.com/uoht/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-        //   // Useful options to enforce blogging best practices
-        //   onInlineTags: 'warn',
-        //   onInlineAuthors: 'warn',
-        //   onUntruncatedBlogPosts: 'warn',
-        // },
+        blog:
+        {
+          showReadingTime: false,
+          feedOptions: {
+            type: ['rss', 'atom'],
+            xslt: true,
+          },
+          showLastUpdateTime: true,
+          // Please change this to your repo.
+          // Remove this to remove the "edit this page" links.
+          // editUrl:
+          //   'https://github.com/uoht/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          // Useful options to enforce blogging best practices
+          onInlineTags: 'warn',
+          onInlineAuthors: 'warn',
+          onUntruncatedBlogPosts: 'warn',
+        },
         theme: {
           customCss: './src/css/custom.scss',
         },
@@ -117,7 +119,7 @@ const config: Config = {
     //image: 'img/docusaurus-social-card.jpg',
     docs: {
       sidebar: {
-        // hideable: true,
+        hideable: true,
         autoCollapseCategories: true,
       },
     },
