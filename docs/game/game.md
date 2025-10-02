@@ -23,7 +23,6 @@ sidebar_label: 游戏
 
 ## 同人游戏
 
-- **[羽ACG](https://seve.yugal.cc/)**
 - **[ACG港湾](https://www.acggw.me/)**
 - **[ggbases](https://www.ggbases.com/)**: 需要自己下载汉化补丁
 

@@ -7,7 +7,7 @@ sidebar_label: 音乐
 *在线听的话也可以用youtube，B站会压音质*
 
 - **[GD音乐台](https://music.gdstudio.xyz/)**: 网易云、QQ、酷我都有，能批量下载，会缺歌曲信息
-- **[酷我音乐破解](https://www.itrmb.com/thread-3034.htm)**: 冷门音乐不全
+- **[酷我音乐破解](https://www.itrmb.com/thread-3034.htm)**: 冷门音乐不全，没有编号
 - **[网易云无损解析](https://api.toubiec.cn/wyapi.html)**: 只能下单曲
 - **[音乐解锁](https://api.toubiec.cn/wyapi.html)**: 移除已购音乐的加密保护
 
