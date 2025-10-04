@@ -34,4 +34,5 @@ sidebar_label: 游戏
 
 - **[御爱同萌](https://www.ai2.moe/)**: ai汉化首发
 - **[鲲 Galgame](https://www.kungal.com/)**: 非常先进，讨论环境好
+- **[SS同盟](https://sstm.moe/)**: 里区门槛较高
 - **[绯月 ScarletMoon](https://bbs.kfpromax.com/index.php)**: 人最多
