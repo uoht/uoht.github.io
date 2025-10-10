@@ -2,7 +2,7 @@
 sidebar_position: 0
 ---
 
-1. [てぃんくる Tinkle](https://x.com/mubialice): 大部分是全年龄的 [TinkleWiki](https://twinkle.kikkaai.com/)
+1. [てぃんくる Tinkle](https://x.com/mubialice/media): 大部分是全年龄的 [TwinkleWiki](https://twinkle.kikkaai.com/)
 
 2. [ふらっしゃー flasher](https://www.pixiv.net/users/102659495/illustrations): 只画蔚蓝档案
 
@@ -18,7 +18,7 @@ sidebar_position: 0
 
 8. [しょくぱん shokupan](https://www.pixiv.net/users/1168970/illustrations): 只画蔚蓝档案
 
-9. [zds](https://www.pixiv.net/users/14094820/illustrations): B站账号:快饿死的Z大叔
+9. [zds](https://www.pixiv.net/users/14094820/illustrations): B站[快饿死的Z大叔](https://space.bilibili.com/5776406/dynamic)
 
 10. [タク道 takumichi](https://www.pixiv.net/users/7774279/illustrations): 只画点兔
 
@@ -36,13 +36,13 @@ sidebar_position: 0
 
 17. [ミルクセーキ Milkshake](https://www.pixiv.net/users/569672/illustrations): 有部分巨乳
 
-18. [cura](https://x.com/curacuracura): lose社画师，这是新的x账号
+18. [cura](https://x.com/curacuracura/media): lose社画师，这是新的x账号
 
 19. [かにビーム](https://www.pixiv.net/users/3439325/illustrations): 花吻在上画师，大部分是全年龄的
 
-20. [なもり](https://x.com/_namori_): 摇曳百合画师，都是全年龄的
+20. [なもり](https://x.com/_namori_/media): 摇曳百合画师，都是全年龄的
 
-21. [Na-Ga](https://x.com/iktd13_): key社画师，都是全年龄的，没有pixiv
+21. [Na-Ga](https://x.com/iktd13_/media): key社画师，都是全年龄的，没有pixiv
 
 22. [Syokuyou-Mogura](https://www.pixiv.net/users/579672/illustrations)
 
@@ -131,3 +131,13 @@ sidebar_position: 0
 64. [なむ太](https://x.com/namu_t22/media): 都是全年龄的
 
 65. [ここね](https://www.pixiv.net/users/20898295/illustrations): 也可以归为幼女画师
+
+66. [桜庭光](https://www.pixiv.net/users/1423422/illustrations): 《爱上火车》画师，有部分巨乳
+
+67. [かにビーム](https://www.pixiv.net/users/3439325/illustrations): 都是全年龄的，有部分巨乳
+
+68. [山田アウト](https://www.pixiv.net/users/54367082/illustrations): 有部分巨乳
+
+69. [Zcx](https://www.pixiv.net/users/76249990/illustrations): 都是全年龄的，B站[Zcx在摸鱼](https://space.bilibili.com/346043437/upload/opus)
+
+70. [okutiri](https://www.pixiv.net/users/15185054/illustrations): 都是全年龄的，B站[忆の尘](https://space.bilibili.com/27512611/dynamic)
