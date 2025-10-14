@@ -10,10 +10,11 @@ sidebar_position: 3
 搜索引擎无法解决的问题再问ai，目前ai幻觉太多了
 
 - **[模型逆向检测](https://reverse-check.no-reverse-api.com/)**
-- **[oaipro](https://api.oaipro.com/)**: 只有OpenAI与Claude的API，这是我找到的唯一没有逆向模型的中转，80元起充。[测试帖](https://www.ai2.moe/topic/32086-%E5%88%86%E4%BA%AB%E4%B8%80%E4%B8%AA%E6%A3%80%E6%B5%8Bai%E4%BB%A3%E7%90%86%E6%98%AF%E5%90%A6%E4%B8%BA%E9%80%86%E5%90%91%E7%9A%84%E5%B7%A5%E5%85%B7)
+- **[oaipro](https://api.oaipro.com/)**: 只有OpenAI与Claude的API，这是我找到的唯一没有逆向模型的中转，80元起充。想一元起充就 [ohmygpt](https://www.ohmygpt.com/)，但它的gimini是逆向的。[测试帖](https://www.ai2.moe/topic/32086-%E5%88%86%E4%BA%AB%E4%B8%80%E4%B8%AA%E6%A3%80%E6%B5%8Bai%E4%BB%A3%E7%90%86%E6%98%AF%E5%90%A6%E4%B8%BA%E9%80%86%E5%90%91%E7%9A%84%E5%B7%A5%E5%85%B7)
 - **[gimini 白嫖教程](https://www.kungal.com/topic/2501)**
-- **[mnapi](https://www.mnapi.com/register?aff=0MGr)**: API只有最贵的是没问题的(自己说的OpenAI官key中，贵的模型是逆向的)，啥模型都有，1元起充，但不建议买多，用oaipro和白嫖的gemini就够了(通过该链接注册，各得0.5元，点一键注册的按钮不行)
 - **[Cherry Studio](https://www.cherry-ai.com/)**: 客户端，要记得跟随模型更新
+
+GPT最稳定，claude在前端代码表现好，gemini容易破限，它的flash速度最快，但所有模型都可能会输出其他语言，其他模型不推荐
 
 目前最聪明的是GPT-5，差一点用 gimini-2.5-pro ，翻译用 claude-3.5 或 gimini-2.5-pro，质量低的翻译用 gimini flash 或 GPT-4.1-mini，后者都比前者差一点
 

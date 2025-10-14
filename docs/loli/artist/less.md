@@ -8,7 +8,7 @@ sidebar_position: 99
 
 ![おにねこ.webp](https://p.inari.site/usr/1818/68ebb81e72aea.webp)
 
-[セネト](https://www.pixiv.net/users/6102855/illustrations)
+[セネト](https://www.pixiv.net/users/6102855/illustrations): 也做动画
 
 ![セネト.webp](https://p.inari.site/usr/1818/68ebb81e72b01.webp)
 
