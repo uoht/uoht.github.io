@@ -23,3 +23,7 @@ sidebar_position: 99
 [SW.ON.D](https://www.pixiv.net/users/74656017/illustrations): 油画画风
 
 ![SW.ON.D.webp](https://p.inari.site/usr/1818/68ebb81e72a83.webp)
+
+[ke-ta](https://www.pixiv.net/users/3104565/illustrations): 只画东方
+
+![ke-ta.webp](https://p.inari.site/usr/1818/68f5a1a46a780.webp)

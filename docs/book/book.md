@@ -12,3 +12,4 @@ sidebar_label: 书籍
 
 - **[次元狗动漫](https://www.acgndog.com/)**: 只能下载
 - **[Hikarinagi](https://www.hikarinagi.org/lightnovel)**: 可以在线看轻小说，但资源较少
+- **[mangadex](https://mangadex.org/)**: 英文版的漫画
