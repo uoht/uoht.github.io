@@ -2,7 +2,7 @@
 sidebar_position: 0
 ---
 
-1. [てぃんくる Tinkle](https://x.com/mubialice/media): 大部分是全年龄的 [TwinkleWiki](https://twinkle.kikkaai.com/)
+1. [てぃんくる Tinkle](https://x.com/mubialice/media): 大部分是全年龄的 [TwinkleWiki](https://twinkle.kikkaai.com/)，另一位成员[ベル](./46-50)
 
 2. [ふらっしゃー flasher](https://www.pixiv.net/users/102659495/illustrations): 只画蔚蓝档案
 
@@ -20,7 +20,7 @@ sidebar_position: 0
 
 9. [zds](https://www.pixiv.net/users/14094820/illustrations): B站[快饿死的Z大叔](https://space.bilibili.com/5776406/dynamic)
 
-10. [タク道 takumichi](https://www.pixiv.net/users/7774279/illustrations): 只画点兔
+10. [タク道 takumichi](https://www.pixiv.net/users/7774279/illustrations): B站[taku道](https://space.bilibili.com/1926687)
 
 11. [Crumbles](https://www.pixiv.net/users/40169508/illustrations): 厚涂画风
 
@@ -38,7 +38,7 @@ sidebar_position: 0
 
 18. [cura](https://x.com/curacuracura/media): lose社画师，这是新的x账号
 
-19. [かにビーム](https://www.pixiv.net/users/3439325/illustrations): 花吻在上画师，大部分是全年龄的
+19. [かにビーム](https://www.pixiv.net/users/3439325/illustrations): 花吻在上画师，大部分是全年龄的，有部分巨乳
 
 20. [なもり](https://x.com/_namori_/media): 摇曳百合画师，都是全年龄的
 
@@ -92,7 +92,7 @@ sidebar_position: 0
 
 45. [ぴら](https://www.pixiv.net/users/597447/illustrations): 都是全年龄的
 
-46. [ベル](https://www.pixiv.net/users/2998007/illustrations): 原tinkle画师，现在在卖手绘画
+46. [ベル](https://www.pixiv.net/users/2998007/illustrations): 原tinkle画师，现在在卖手绘画，在Misskey.io上更新，但是不登录无法查看敏感内容，它也无法用vpn注册，可以先注册 misskey.gg 或其他大的实例，小的实例帖子不全，然后访问 https://misskey.gg/@bell2023@misskey.io
 
 47. [あむ](https://www.pixiv.net/artworks/127976243): 手绘，都是全年龄的
 
@@ -134,7 +134,7 @@ sidebar_position: 0
 
 66. [桜庭光](https://www.pixiv.net/users/1423422/illustrations): 《爱上火车》画师，有部分巨乳
 
-67. [かにビーム](https://www.pixiv.net/users/3439325/illustrations): 都是全年龄的，有部分巨乳
+67. [observerZ](https://www.pixiv.net/users/19932/illustrations): 都是全年龄的
 
 68. [山田アウト](https://www.pixiv.net/users/54367082/illustrations): 大部分都是全年龄的，有部分巨乳
 
@@ -149,3 +149,5 @@ sidebar_position: 0
 73. [酢だんご](https://x.com/_sudango/media): 都是全年龄的，已停更
 
 74. [ｍ－くん](https://www.pixiv.net/users/899657/illustrations)
+
+75. [つきのせ](https://www.pixiv.net/users/16680909/illustrations): 大部分都是全年龄的
