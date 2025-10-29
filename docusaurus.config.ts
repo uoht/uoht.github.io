@@ -1,7 +1,7 @@
 import { themes as prismThemes } from 'prism-react-renderer';
 import type { Config } from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
-// git add . ; git commit -m "删除禁止转载的画师的图片" ; git push origin source ; $env:GIT_USER="uoht"; yarn deploy
+// git add . ; git commit -m "将禁止转载的画师分开" ; git push origin source ; $env:GIT_USER="uoht"; yarn deploy
 // yarn start
 // npm run docusaurus build
 // npm run docusaurus serve

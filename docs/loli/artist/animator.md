@@ -1,5 +1,5 @@
 ---
-sidebar_position: 3
+sidebar_position: 88
 ---
 
 # 动画
@@ -7,10 +7,6 @@ sidebar_position: 3
 [Custom Udon](https://www.pixiv.net/users/115051/illustrations)
 
 ![Custom Udon.webp](https://p.inari.site/usr/1818/689f51b2e5e18.webp)
-
-[ぽるせりん Poruserin](https://www.pixiv.net/users/15209643/illustrations)
-
-![ぽるせりん Poruserin.webp](https://p.inari.site/usr/1818/68ab12d8f38c6.webp)
 
 [Kinkhead](https://www.pixiv.net/users/77504595/illustrations)
 
