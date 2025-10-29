@@ -76,7 +76,7 @@ sidebar_position: 0
 
 37. [hagoonha](https://www.pixiv.net/users/37929892/illustrations): 都是全年龄的
 
-38. [深谷りん🐥](https://www.pixiv.net/users/76840940/illustrations): 都是全年龄的
+38. [深谷りん](https://www.pixiv.net/users/76840940/illustrations): 都是全年龄的
 
 39. [十韭](https://www.pixiv.net/users/42973578/illustrations): 都是全年龄的
 
@@ -84,7 +84,7 @@ sidebar_position: 0
 
 41. [春日いづれ](https://www.pixiv.net/users/755446/illustrations): 都是全年龄的
 
-42. [mojo](https://www.pixiv.net/users/94576902/illustrations): 都是全年龄的
+42. [mojo](https://www.pixiv.net/users/94576902/illustrations): 都是全年龄的，B站[mojoawa](https://space.bilibili.com/281577872)
 
 43. [せんちゃ sencyairo](https://www.pixiv.net/users/3388329/illustrations): 都是全年龄的
 
@@ -94,7 +94,7 @@ sidebar_position: 0
 
 46. [ベル](https://www.pixiv.net/users/2998007/illustrations): 原tinkle画师，现在在卖手绘画，在Misskey.io上更新，但是不登录无法查看敏感内容，它也无法用vpn注册，可以先注册 misskey.gg 或其他大的实例，小的实例帖子不全，然后访问 https://misskey.gg/@bell2023@misskey.io
 
-47. [あむ](https://www.pixiv.net/artworks/127976243): 手绘，都是全年龄的
+47. [あむ](https://www.pixiv.net/users/1572639/illustrations): 手绘，都是全年龄的
 
 48. [Egami(えがみ)](https://www.pixiv.net/users/64390150/illustrations)
 
