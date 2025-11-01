@@ -28,7 +28,7 @@ sidebar_position: 0
 
 13. [MUK（むっく）](https://www.pixiv.net/users/4234383/illustrations): 画风很奇特
 
-14. [AkiFn](https://www.pixiv.net/users/3231927/illustrations): 人体有点崩
+14. [AkiFn](https://www.pixiv.net/users/3231927/illustrations): 人体有点崩，也做动画
 
 15. [Aak](https://www.pixiv.net/users/22601389/illustrations): 有部分巨乳，也做动画
 
@@ -44,7 +44,7 @@ sidebar_position: 0
 
 21. [comodox](https://www.pixiv.net/users/4252792/illustrations): 非常可爱
 
-22. [Na-Ga](https://x.com/iktd13_/media): key社画师，都是全年龄的，没有pixiv
+22. [Na-Ga](https://x.com/iktd13_/media): key社画师，都是全年龄的
 
 23. [雁 nicknikg](https://www.pixiv.net/users/577076/illustrations)
 
@@ -54,7 +54,7 @@ sidebar_position: 0
 
 26. [ｍ－くん](https://www.pixiv.net/users/899657/illustrations)
 
-27. [ミロン merong_(sou47897)](https://www.pixiv.net/users/4331651/illustrations): 图很少，但未来可期
+27. [ミロン merong_(sou47897)](https://www.pixiv.net/users/4331651/illustrations)
 
 28. [萩 hagi](https://www.pixiv.net/users/66371932/illustrations)
 
@@ -62,7 +62,7 @@ sidebar_position: 0
 
 30. [幼月月 youyueyuee](https://www.pixiv.net/users/10344581/illustrations): 喜欢画脚
 
-31. [闷茶子 Menthako](https://www.pixiv.net/users/5373467/illustrations):也可以归为幼女画师，都是全年龄的
+31. [闷茶子 Menthako](https://www.pixiv.net/users/5373467/illustrations): 也可以归为幼女画师，都是全年龄的
 
 32. [天凉多喝防冻液 Antifreeze](https://www.pixiv.net/users/15849699/illustrations):也可以归为幼女画师
 
@@ -116,13 +116,13 @@ sidebar_position: 0
 
 57. [ぴよみゅう](https://www.pixiv.net/users/12838739/illustrations): 都是全年龄的
 
-58. [悠萩](https://x.com/yuuhagi/media): 都是全年龄的
+58. [Zcx](https://www.pixiv.net/users/76249990/illustrations): 都是全年龄的，B站[Zcx在摸鱼](https://space.bilibili.com/346043437/upload/opus)
 
 59. [千歳坂すず](https://www.pixiv.net/users/15956/illustrations): 都是全年龄的
 
 60. [MECHURAGI](https://www.pixiv.net/users/3290757/illustrations): 都是全年龄的
 
-61. [琴慈](https://x.com/cotoji_69/media): ANNE HAPPY♪画师，都是全年龄的
+61. [琴慈](https://x.com/cotoji_69/media): ANNE HAPPY♪画师，都是全年龄的，有部分巨乳
 
 62. [篤見](https://x.com/1093yuiko/media): Slow Start画师，都是全年龄的
 
@@ -138,4 +138,10 @@ sidebar_position: 0
 
 68. [山田アウト](https://www.pixiv.net/users/54367082/illustrations): 大部分都是全年龄的，有部分巨乳
 
-69. [Zcx](https://www.pixiv.net/users/76249990/illustrations): 都是全年龄的，B站[Zcx在摸鱼](https://space.bilibili.com/346043437/upload/opus)
+69. [月うさぎ](https://www.pixiv.net/users/3440024/illustrations): 大部分是全年龄的
+
+70. [ねでぃあ](https://www.pixiv.net/users/4072067/illustrations): 有部分巨乳
+
+71. [ICHIZEN-RYUU](https://x.com/ICHIZEN_RYUU2/media): 都是全年龄的
+
+72. [界さけ](https://x.com/sasasakeee/media): 都是全年龄的
