@@ -1,10 +1,10 @@
 ---
-sidebar_position: 2
+sidebar_position: 1
 ---
 
 # 画师推荐
 
-当前72插画+5动画+5较少+10无预览
+当前72插画+5动画+5较少+11较差
 
 点击画师名可以跳到pixiv或x的链接，右上的搜索框日文搜索不了，可以在[总览](artist/all)中搜索
 
@@ -18,7 +18,7 @@ sidebar_position: 2
 
 特别感谢[评论区楚胥大佬](https://www.kungal.com/topic/2595#k11)的推荐
 
-**已删除禁止转载的画师的图片，这些画师在[无预览](artist/noimage)**
+禁止转载的画师在[较差](artist/worse)，因为我发现最好的画师从来不标禁止转载
 
 ```mdx-code-block
 import DocCardList from '@theme/DocCardList';
