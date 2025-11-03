@@ -92,7 +92,7 @@ sidebar_position: 0
 
 45. [ぴら](https://www.pixiv.net/users/597447/illustrations): 都是全年龄的
 
-46. [ベル](https://www.pixiv.net/users/2998007/illustrations): 原tinkle画师，现在在卖手绘画，在Misskey.io上更新，但是不登录无法查看敏感内容，它也无法用vpn注册，可以先注册 misskey.gg 或其他大的实例，小的实例帖子不全，然后访问 https://misskey.gg/@bell2023@misskey.io
+46. [ベル](https://www.pixiv.net/users/2998007/illustrations): 原tinkle画师，现在在卖手绘画，在Misskey.io上更新，但是不登录无法查看敏感内容，它也无法用vpn注册，可以先注册 misskey.design 或其他实例，然后访问 https://misskey.design/@bell2023@misskey.io ，有人关注后该实例能同步之后更新的内容，但之前的帖子不全
 
 47. [あむ](https://www.pixiv.net/users/1572639/illustrations): 手绘，都是全年龄的
 
@@ -145,3 +145,9 @@ sidebar_position: 0
 71. [ICHIZEN-RYUU](https://x.com/ICHIZEN_RYUU2/media): 都是全年龄的
 
 72. [界さけ](https://x.com/sasasakeee/media): 都是全年龄的
+
+73. [せろめた](https://www.pixiv.net/users/26267972/illustrations): 都是全年龄的
+
+74. [不可食部](https://x.com/inedibleparts/media): 都是全年龄的，只画蔚蓝档案
+
+75. [在り](https://x.com/arikomenman/media): 也可以归为幼女画师，都是全年龄的

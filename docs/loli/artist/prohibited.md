@@ -1,8 +1,9 @@
 ---
 sidebar_position: 999
+draft: true
 ---
 
-# 较差
+# 禁止转载所有内容的画师
 
 [Syokuyou-Mogura](https://www.pixiv.net/users/579672/illustrations)
 
