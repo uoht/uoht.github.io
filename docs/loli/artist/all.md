@@ -2,6 +2,10 @@
 sidebar_position: 0
 ---
 
+# 总览
+
+## 插画
+
 1. [てぃんくる Tinkle](https://x.com/mubialice/media): 大部分是全年龄的 [TwinkleWiki](https://twinkle.kikkaai.com/)，另一位成员[ベル](./46-50)
 
 2. [ふらっしゃー flasher](https://www.pixiv.net/users/102659495/illustrations): 只画蔚蓝档案
@@ -151,3 +155,27 @@ sidebar_position: 0
 74. [不可食部](https://x.com/inedibleparts/media): 都是全年龄的，只画蔚蓝档案
 
 75. [在り](https://x.com/arikomenman/media): 也可以归为幼女画师，都是全年龄的
+
+## 动画
+
+1. [Custom Udon](https://www.pixiv.net/users/115051/illustrations)
+
+2. [Kinkhead](https://www.pixiv.net/users/77504595/illustrations)
+
+3. [chr](https://www.pixiv.net/users/9446731/illustrations)
+
+4. [未来みるく](https://www.pixiv.net/users/10559523/illustrations): 像素gif
+
+5. [pre_sktch](https://x.com/pre_sktch/media): 都是全年龄的
+
+## 较少
+
+1. [ke-ta](https://www.pixiv.net/users/3104565/illustrations): 只画东方
+
+2. [セネト](https://www.pixiv.net/users/6102855/illustrations): 也做动画
+
+3. [Deyui](https://x.com/xdeyuix/media)
+
+4. [repi★(レピ)](https://www.pixiv.net/users/1204169): 都是全年龄的，已停更
+
+5. [SW.ON.D](https://www.pixiv.net/users/74656017/illustrations): 油画画风
