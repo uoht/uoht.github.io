@@ -30,3 +30,7 @@ ios翻墙客户端免费的可以用 [clash mi](https://clashmi.app/)
 ## 图床
 
 - **[PigeonNet](https://up.inari.site/)**
+
+## 导航
+
+[盗版新手指南](https://www.aigosearch.com/zh/beginners-guide/): 英文网站
