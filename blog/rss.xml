@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="rss.xsl"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>uoht Blog</title>
+        <link>https://uoht.moe/blog</link>
+        <description>uoht Blog</description>
+        <lastBuildDate>Fri, 07 Nov 2025 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>zh-Hans</language>
+        <item>
+            <title><![CDATA[绕过反诈教程]]></title>
+            <link>https://uoht.moe/blog/2025/11/7/ 绕过反诈教程</link>
+            <guid>https://uoht.moe/blog/2025/11/7/ 绕过反诈教程</guid>
+            <pubDate>Fri, 07 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[设置DoH、用海外DNS是不行的，可以安装最新版Clash Verge Rev，然后开启虚拟网卡模式（不需要梯子）]]></description>
+            <content:encoded><![CDATA[<p>设置DoH、用海外DNS是不行的，可以安装最新版<a href="https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/autobuild" target="_blank" rel="noopener noreferrer" class="">Clash Verge Rev</a>，然后开启虚拟网卡模式（不需要梯子）
+<img decoding="async" loading="lazy" src="https://p.inari.site/usr/1818/690dfbe126659.jpg" alt="Clash Verge Rev.jpg" class="img_ev3q"></p>]]></content:encoded>
+        </item>
+    </channel>
+</rss>
