@@ -8,12 +8,12 @@
     <subtitle>uoht Blog</subtitle>
     <icon>https://uoht.moe/img/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[绕过反诈教程]]></title>
+        <title type="html"><![CDATA[绕过反诈拦截教程]]></title>
         <id>https://uoht.moe/blog/2025/11/7/ 绕过反诈教程</id>
         <link href="https://uoht.moe/blog/2025/11/7/ 绕过反诈教程"/>
         <updated>2025-11-07T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[设置DoH、用海外DNS是不行的，可以安装最新版Clash Verge Rev，然后开启虚拟网卡模式（不需要梯子）]]></summary>
-        <content type="html"><![CDATA[<p>设置DoH、用海外DNS是不行的，可以安装最新版<a href="https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/autobuild" target="_blank" rel="noopener noreferrer" class="">Clash Verge Rev</a>，然后开启虚拟网卡模式（不需要梯子）
+        <summary type="html"><![CDATA[设置DoH、用海外DNS是不行的，可以安装最新版Clash Verge Rev，然后开启虚拟网卡模式（不需要梯子，虽然梯子开全局也行）]]></summary>
+        <content type="html"><![CDATA[<p>设置DoH、用海外DNS是不行的，可以安装最新版<a href="https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/autobuild" target="_blank" rel="noopener noreferrer" class="">Clash Verge Rev</a>，然后开启虚拟网卡模式（不需要梯子，虽然梯子开全局也行）
 <img decoding="async" loading="lazy" src="https://p.inari.site/usr/1818/690dfbe126659.jpg" alt="Clash Verge Rev.jpg" class="img_ev3q"></p>]]></content>
     </entry>
 </feed>
