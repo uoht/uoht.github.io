@@ -9,7 +9,7 @@
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
         <item>
-            <title><![CDATA[电脑不全局代理绕过反诈拦截]]></title>
+            <title><![CDATA[电脑不全局代理绕过反诈拦截、DNS/SNI 阻断]]></title>
             <link>https://uoht.moe/blog/2025/11/7/ 绕过反诈教程</link>
             <guid>https://uoht.moe/blog/2025/11/7/ 绕过反诈教程</guid>
             <pubDate>Fri, 07 Nov 2025 00:00:00 GMT</pubDate>
@@ -21,7 +21,9 @@
 <p>之后让系统 DNS 指向 127.0.0.1 (本地)</p>
 <p><img decoding="async" loading="lazy" src="https://p.inari.site/usr/1818/690ec83bbccda.jpg" alt="WLAN.jpg" class="img_ev3q"></p>
 <p><img decoding="async" loading="lazy" src="https://p.inari.site/usr/1818/690ec83b80a6e.jpg" alt="WLAN2.jpg" class="img_ev3q"></p>
-<p>之后可以测试必定被拦截的网站，如 <a href="https://doc.cloudpaste.qzz.io/" target="_blank" rel="noopener noreferrer" class="">qzz.io二级域名</a></p>]]></content:encoded>
+<p>之后可以在POWERSHELL输入 nslookup linux.do 测试，被劫持会返回非权威应答。浏览器有缓存测不准</p>
+<p><img decoding="async" loading="lazy" src="https://p.inari.site/usr/1818/690efe5f29bdd.jpg" alt="被劫持会返回非权威应答.jpg" class="img_ev3q"></p>
+<p>这个方法不需要梯子，<a href="https://www.cloudflare.com/zh-tw/ssl/encrypted-sni/#results" target="_blank" rel="noopener noreferrer" class="">测试页</a>会显示“未加密 SNI”，但其实不影响</p>]]></content:encoded>
         </item>
     </channel>
 </rss>
