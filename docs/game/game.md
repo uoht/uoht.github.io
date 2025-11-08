@@ -6,6 +6,7 @@ sidebar_label: 游戏
 
 ## steam游戏
 
+- **[单机派](https://www.danjipai.com/)**
 - **[Switch520](https://www.gamer520.com/)**
 - **[igg-games](https://igg-games.com/)**: 英语网站
 - **[BYRUTOR](https://byrutgame.org/)**: 俄语网站
