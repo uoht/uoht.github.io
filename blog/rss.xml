@@ -9,13 +9,19 @@
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
         <item>
-            <title><![CDATA[绕过反诈拦截教程]]></title>
+            <title><![CDATA[电脑不全局代理绕过反诈拦截]]></title>
             <link>https://uoht.moe/blog/2025/11/7/ 绕过反诈教程</link>
             <guid>https://uoht.moe/blog/2025/11/7/ 绕过反诈教程</guid>
             <pubDate>Fri, 07 Nov 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[设置DoH、用海外DNS是不行的，可以安装最新版Clash Verge Rev，然后开启虚拟网卡模式（不需要梯子，虽然梯子开全局也行）]]></description>
-            <content:encoded><![CDATA[<p>设置DoH、用海外DNS是不行的，可以安装最新版<a href="https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/autobuild" target="_blank" rel="noopener noreferrer" class="">Clash Verge Rev</a>，然后开启虚拟网卡模式（不需要梯子，虽然梯子开全局也行）
-<img decoding="async" loading="lazy" src="https://p.inari.site/usr/1818/690dfbe126659.jpg" alt="Clash Verge Rev.jpg" class="img_ev3q"></p>]]></content:encoded>
+            <description><![CDATA[梯子开全局或者虚拟网卡模式会导致所有都走代理，使浏览器插件Proxy SwitchyOmega无效]]></description>
+            <content:encoded><![CDATA[<p>梯子开全局或者虚拟网卡模式会导致所有都走代理，使浏览器插件Proxy SwitchyOmega无效</p>
+<p>设置DoH、只用海外DNS是不行的，可以安装最新版<a href="https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/autobuild" target="_blank" rel="noopener noreferrer" class="">Clash Verge Rev</a>，然后开启DNS覆写，并设置增强模式为redir-host(否则SwitchyOmega的直接连接会连不上)</p>
+<p><img decoding="async" loading="lazy" src="https://p.inari.site/usr/1818/690ec30aeeb0f.jpg" alt="DNS覆写.jpg" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" src="https://p.inari.site/usr/1818/690ed2790a7ed.jpg" alt="redir-host.jpg" class="img_ev3q"></p>
+<p>之后让系统 DNS 指向 127.0.0.1 (本地)</p>
+<p><img decoding="async" loading="lazy" src="https://p.inari.site/usr/1818/690ec83bbccda.jpg" alt="WLAN.jpg" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" src="https://p.inari.site/usr/1818/690ec83b80a6e.jpg" alt="WLAN2.jpg" class="img_ev3q"></p>
+<p>之后可以测试必定被拦截的网站，如 <a href="https://doc.cloudpaste.qzz.io/" target="_blank" rel="noopener noreferrer" class="">qzz.io二级域名</a></p>]]></content:encoded>
         </item>
     </channel>
 </rss>
