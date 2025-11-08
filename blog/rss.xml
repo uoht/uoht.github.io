@@ -13,8 +13,8 @@
             <link>https://uoht.moe/blog/2025/11/7/ 绕过反诈教程</link>
             <guid>https://uoht.moe/blog/2025/11/7/ 绕过反诈教程</guid>
             <pubDate>Fri, 07 Nov 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[梯子开全局或者虚拟网卡模式会导致所有都走代理，使浏览器插件Proxy SwitchyOmega无效]]></description>
-            <content:encoded><![CDATA[<p>梯子开全局或者虚拟网卡模式会导致所有都走代理，使浏览器插件Proxy SwitchyOmega无效</p>
+            <description><![CDATA[梯子开全局或者虚拟网卡模式虽然可以，但会导致所有都走代理，使浏览器插件Proxy SwitchyOmega无效]]></description>
+            <content:encoded><![CDATA[<p>梯子开全局或者虚拟网卡模式虽然可以，但会导致所有都走代理，使浏览器插件Proxy SwitchyOmega无效</p>
 <p>设置DoH、只用海外DNS是不行的，可以安装最新版<a href="https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/autobuild" target="_blank" rel="noopener noreferrer" class="">Clash Verge Rev</a>，然后开启DNS覆写，并设置增强模式为redir-host(否则SwitchyOmega的直接连接会连不上)</p>
 <p><img decoding="async" loading="lazy" src="https://p.inari.site/usr/1818/690ec30aeeb0f.jpg" alt="DNS覆写.jpg" class="img_ev3q"></p>
 <p><img decoding="async" loading="lazy" src="https://p.inari.site/usr/1818/690ed2790a7ed.jpg" alt="redir-host.jpg" class="img_ev3q"></p>
