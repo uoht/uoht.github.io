@@ -9,7 +9,6 @@ sidebar_position: 3
 ## 通用
 
 - **[Readingo](https://superapp.top/)**: 本地看书
-- **[clash mi](https://clashmi.app/)**: 翻墙软件
 
 ## ios
 

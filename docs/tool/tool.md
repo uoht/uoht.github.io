@@ -3,20 +3,20 @@ sidebar_position: 3
 ---
 # 工具
 
-*要花钱的东西只推荐 **返利少、活动少、好评多** 的，建议买之前自行搜索评价。有返利的会标出来*
+*要花钱的东西只推荐没有返利的，可以自行搜索评价*
 
 ## AI
 
 搜索引擎无法解决的问题再问ai，目前ai幻觉太多了
 
 - **[模型逆向检测](https://reverse-check.no-reverse-api.com/)**
-- **[oaipro](https://api.oaipro.com/)**: 只有OpenAI与Claude的API，这是我找到的唯一没有逆向模型的中转，80元起充。想一元起充就 [ohmygpt](https://www.ohmygpt.com/)，但它的gimini是逆向的。[测试帖](https://www.ai2.moe/topic/32086-%E5%88%86%E4%BA%AB%E4%B8%80%E4%B8%AA%E6%A3%80%E6%B5%8Bai%E4%BB%A3%E7%90%86%E6%98%AF%E5%90%A6%E4%B8%BA%E9%80%86%E5%90%91%E7%9A%84%E5%B7%A5%E5%85%B7)
+- **[oaipro](https://api.oaipro.com/)**: 只有OpenAI与Claude的API，没有技巧，只是官代，80元起充。
 - **[gimini 白嫖教程](https://www.kungal.com/topic/2501)**
 - **[Cherry Studio](https://www.cherry-ai.com/)**: 客户端，要记得跟随模型更新
 
-GPT最稳定，claude在前端代码表现好，gemini容易破限，它的flash速度最快，但所有模型都可能会输出其他语言，其他模型不推荐
+GPT最稳定，claude翻译表现好，gemini容易破限，它的flash速度最快，但所有模型都可能会输出其他语言，其他模型不推荐
 
-目前最聪明的是GPT-5，差一点用 gimini-2.5-pro ，翻译用 claude-3.5 或 gimini-2.5-pro，质量低的翻译用 gimini flash 或 GPT-4.1-mini，后者都比前者差一点
+目前最聪明的是GPT-5，翻译用 claude-4.5 ，质量低的翻译用 gimini flash
 
 注意gimini pro必须有思考链参数，要在最新版客户端才能用，可以一个号10个项目轮询，用逗号分隔key就行，不建议多个号一起用
 
@@ -25,7 +25,7 @@ GPT最稳定，claude在前端代码表现好，gemini容易破限，它的flash
 ios翻墙客户端免费的可以用 [clash mi](https://clashmi.app/)
 
 - **[Kerry的免费机场推荐](https://kerrynotes.com/free-proxy-vpn/#toc10)**: 也可以在魔戒买个1元2G的备用
-- **[奶油机场](https://creamdata.net/#pricing)**: 没有返利，也比较低调，建议宁愿买贵的稳定的机场，便宜的卡起来很难受，可以参考[毒药SS](https://www.duyaoss.com/archives/2934/)
+- **[奶油机场](https://creamdata.net/#pricing)**: 比较低调，建议宁愿买贵的稳定的机场，便宜的卡起来很难受，可以参考[毒药SS](https://www.duyaoss.com/archives/2934/)
 
 ## 图床
 
@@ -33,4 +33,4 @@ ios翻墙客户端免费的可以用 [clash mi](https://clashmi.app/)
 
 ## 导航
 
-[盗版新手指南](https://www.aigosearch.com/zh/beginners-guide/): 英文网站
+- **[盗版新手指南](https://www.aigosearch.com/zh/beginners-guide/)**: 英文网站
