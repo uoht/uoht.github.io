@@ -4,8 +4,6 @@ sidebar_position: 3
 
 # 手机软件
 
-*iOS没啥好软件，安卓软件等我换安卓再推荐~*
-
 ## 通用
 
 - **[Readingo](https://superapp.top/)**: 本地看书
