@@ -96,7 +96,7 @@ sidebar_position: 0
 
 45. [ぴら](https://www.pixiv.net/users/597447/illustrations): 都是全年龄的
 
-46. [ベル](https://www.pixiv.net/users/2998007/illustrations): 原tinkle画师，现在在卖手绘画，在Misskey.io上更新，但是不登录无法查看敏感内容，它也无法用vpn注册，可以先注册 misskey.design 或其他实例，然后访问 https://misskey.design/@bell2023@misskey.io ，有人关注后该实例能同步之后更新的内容，但之前的帖子不全
+46. [ベル](https://www.pixiv.net/users/2998007/illustrations): 原tinkle画师，现在在卖手绘画，在Misskey.io上更新，但是不登录无法查看敏感内容，它也无法用vpn注册，可以先注册 misskey.design 或其他实例，然后访问 [https://misskey.design/@bell2023@misskey.io](https://misskey.design/@bell2023@misskey.io) ，有人关注后该实例能同步之后更新的内容，但之前的帖子不全
 
 47. [あむ](https://www.pixiv.net/users/1572639/illustrations): 手绘，都是全年龄的
 
@@ -163,6 +163,14 @@ sidebar_position: 0
 78. [巻貝](https://www.pixiv.net/users/56685804/illustrations)
 
 79. [九重樱風雪](https://www.pixiv.net/users/26633726/illustrations): 都是全年龄的
+
+80. [SeeRo](https://www.pixiv.net/users/17334809/illustrations): 都是全年龄的
+
+81. [井上](https://x.com/afk_0831/media): 都是全年龄的
+
+82. [ぴよ寺むちゃ](https://x.com/nyakocha/media): 夜羊社画师
+
+83. [なすお](https://www.pixiv.net/users/108974138/illustrations)
 
 ## 动画
 
