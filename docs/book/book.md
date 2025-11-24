@@ -6,6 +6,7 @@ sidebar_label: 书籍
 
 ## 通用
 
+- **[Z-library](https://topstip.com/the-worlds-largest-digital-library-z-library-newly-available-official-site-and-mirror/#title-0)**
 - **[安娜的档案](https://zh.annas-archive.org/)**
 
 ## 轻小说/漫画
