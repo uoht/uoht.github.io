@@ -30,7 +30,7 @@ sidebar_position: 8
 
 - **[acgdb](https://acgdb.de/)**
 - **[猫猫网盘](https://catcat.cloud/)**
-- **[SunshineBoy的杂乱仓库](https://openlist.sunshineboy.top/)**: 有的出bug下载不了，有的要点复制链接才能下
+- **[SunshineBoy的杂乱仓库](https://openlist.sunshineboy.top/)**: 有的下载不了，有的要点复制链接才能下
 
 ### 论坛
 
