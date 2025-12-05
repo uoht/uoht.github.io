@@ -22,6 +22,31 @@ sidebar_position: 8
 - **[hanime](https://hanime1.me/)**
 - **[kemono](https://kemono.cr/)**: 只有赞助动画
 
+## 游戏
+
+### galgame
+
+- **[Shionlib](https://shionlib.com/zh/)**: 有预览
+- **[梓澪の妙妙屋](https://zi0.cc/)**
+- **[真红小站](https://www.shinnku.com/)**
+- **[TouchGal](https://www.touchgal.us/)**: 有预览，但没有冷门资源
+
+### 同人游戏
+
+- **[ACG港湾](https://www.acggw.me/)**
+- **[ggbases](https://www.ggbases.com/)**: 需要自己下载汉化补丁
+
+### 汉化补丁站
+
+- **[鲲 Galgame 补丁](https://www.moyu.moe/)**
+
+### 论坛
+
+- **[鲲 Galgame](https://www.kungal.com/)**: 非常先进，讨论环境好
+- **[御爱同萌](https://www.ai2.moe/)**: ai汉化首发
+- **[绯月 ScarletMoon](https://bbs.kfpromax.com/index.php)**: 人最多
+- **[SS同盟](https://sstm.moe/)**: 里区门槛较高
+
 ## 其他
 
 除了ACG外，还包括三次元、3D动画、ASMR等内容的网站
@@ -30,7 +55,7 @@ sidebar_position: 8
 
 - **[acgdb](https://acgdb.de/)**
 - **[猫猫网盘](https://catcat.cloud/)**
-- **[SunshineBoy的杂乱仓库](https://openlist.sunshineboy.top/)**: 有的下载不了，有的要点复制链接才能下
+- **[SunshineBoy的杂乱仓库](https://openlist.sunshineboy.top/)**
 
 ### 论坛
 
