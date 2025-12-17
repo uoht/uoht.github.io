@@ -16,3 +16,7 @@ draft: true
 [ソラクモ](https://www.pixiv.net/users/21160166/illustrations): 都是全年龄的
 
 ![ソラクモ.webp](https://p.inari.site/usr/1818/69174502a6f7d.webp)
+
+[白露もね](https://x.com/mone_shiratsuyu/media)
+
+![白露もね.jpg](https://p.inari.site/usr/1818/6917494d0a201.jpg)
