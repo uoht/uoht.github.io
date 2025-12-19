@@ -25,4 +25,4 @@ sidebar_position: 3
 
 在网页上做一些简单的事，如显示星号密码、手机浏览模式、阅读模式、复制网页标题
 
-- **[小书签合集](https://www.runningcheese.com/bookmarklets)**
+- **[小书签合集](https://www.runningcheese.com/bookmarklets)**: 打不开可以尝试[github](https://github.com/runningcheese/Awesome-Bookmarklets)
