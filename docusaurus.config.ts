@@ -1,7 +1,7 @@
 import { themes as prismThemes } from 'prism-react-renderer';
 import type { Config } from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
-// git add . ; git commit -m "更新重定向" ; git push origin main
+// git add . ; git commit -m "更新换域名公告和展示禁止转载的画师" ; git push origin main
 //  ; $env:GIT_USER="uoht"; yarn deploy
 // yarn start
 // yarn build
@@ -154,6 +154,7 @@ const config: Config = {
         { to: 'ero', label: '涩涩', position: 'left' },
         //{ to: 'docs/general', label: '综合', position: 'left' },
         { to: 'loli', label: '萝莉', position: 'left' },
+        //{ to: 'download', label: '下载', position: 'left' },
         //{ to: 'blog', label: '博客', position: 'left' },
         {
           href: 'https://github.com/uoht/uoht.github.io',

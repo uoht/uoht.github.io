@@ -1,6 +1,5 @@
 ---
 sidebar_position: 999
-draft: true
 ---
 
 # 禁止转载所有内容的画师
@@ -70,5 +69,3 @@ draft: true
 無断転載、AI学習×。
 
 ![荻pote.webp](https://p.inari.site/usr/1818/69060dbb8148d.webp)
-
-If you own the copyright of images, please contact me at github.
