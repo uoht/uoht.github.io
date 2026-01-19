@@ -1,0 +1,12 @@
+# 核心重定向规则
+[[redirects]]
+  from = "/*"
+  to = "https://101161.xyz/:splat"
+  status = 301
+  force = true
+# 新增：构建配置 (这是解决 404 的关键)
+[build]
+  # 告诉 Netlify：不需要运行 npm run build，直接发布当前目录
+  command = "echo 'No build needed for redirect'"
+  # 发布目录设为根目录（因为 netlify.toml 就在这）
+  publish = "." 
