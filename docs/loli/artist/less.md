@@ -2,7 +2,7 @@
 sidebar_position: 99
 ---
 
-# 较少
+# 较少(5)
 
 [ke-ta](https://www.pixiv.net/users/3104565/illustrations): 只画东方
 
