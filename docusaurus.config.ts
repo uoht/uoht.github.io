@@ -1,7 +1,7 @@
 import { themes as prismThemes } from 'prism-react-renderer';
 import type { Config } from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
-// git add . ; git commit -m "110loli" ; git push origin main
+// git add . ; git commit -m "优化扩展" ; git push origin main
 //  ; $env:GIT_USER="uoht"; yarn deploy
 // yarn start
 // yarn build
@@ -154,7 +154,7 @@ const config: Config = {
           label: 'GitHub',
           position: 'right',
         },
-        { to: 'd', label: '', position: 'left' },
+        { to: 'd', label: '    ', position: 'left' },
 
         //{ to: 'docs/ero/ero', label: '', position: 'left' },
 
