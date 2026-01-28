@@ -5,7 +5,7 @@ unlisted: true
 
 # 下载
 
-随缘放一些下载链接，点上方主菜单萝莉右边的空白处即可进入
+随缘放一些下载链接，点上方主菜单萝莉右边的空白处即可进入，下载时如果要梯子建议从[工具](tool)找白嫖的梯子用
 
 ## tinkle & ベル(BELL)
 
@@ -130,6 +130,6 @@ unlisted: true
 
 [kuku.lu合集压缩版](https://d.kuku.lu/kykjpwrkh)
 
-[onedrive直接传图版(2030年会过期，登录后可批量下载)](https://1drv.ms/f/c/82945619c21ca490/IgCmWgzDwVdaQrTBA0o-b9MfAcTjQNVX4zpLjY7XNtTj2W0?e=eRe784)
+[onedrive直接传图版(需要梯子，2030年会过期，登录后可批量下载)](https://1drv.ms/f/c/82945619c21ca490/IgCmWgzDwVdaQrTBA0o-b9MfAcTjQNVX4zpLjY7XNtTj2W0?e=eRe784)
 
-google drive直接传图版(分两部分)：[其他](https://drive.google.com/drive/folders/15NBCxIg6i6as6X72_jbqzyZg8N2XNS8F?usp=sharing) [ComicMarket](https://drive.google.com/drive/folders/1SvVlArwYSw5BU5xBiLvY8Z4lBW93R4dU)
+google drive直接传图版(需要梯子，分两部分)：[其他](https://drive.google.com/drive/folders/15NBCxIg6i6as6X72_jbqzyZg8N2XNS8F?usp=sharing) [ComicMarket](https://drive.google.com/drive/folders/1SvVlArwYSw5BU5xBiLvY8Z4lBW93R4dU)
