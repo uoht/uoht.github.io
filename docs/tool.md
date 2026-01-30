@@ -17,7 +17,7 @@ sidebar_position: 3
 
 ## 梯子
 
-ios翻墙客户端免费的可以用 [clash mi](https://clashmi.app/) (不能用规则分流)，电脑用 [FLClash](https://github.com/chen08209/FlClash)
+ios翻墙客户端免费的可以用 [clash mi](https://clashmi.app/) (不能用规则分流)，但更建议[用公益站的账号](https://gx.880333.xyz/)下载stash或小火箭，电脑用 [FLClash](https://github.com/chen08209/FlClash)
 
 - **[askahh的免费机场推荐](https://www.askahh.com/archives/17/)**
 - **[Kerry的免费机场推荐](https://kerrynotes.com/free-proxy-vpn/#toc10)**
