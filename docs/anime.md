@@ -2,6 +2,7 @@
 sidebar_position: 4
 sidebar_label: 动画
 ---
+
 # 动画
 
 在线的太容易炸了，而且画质和字幕不一定好，所以更推荐下载站
@@ -29,4 +30,3 @@ sidebar_label: 动画
 ## 在线动画
 
 - **[E站弹幕网](https://www.ezdmw.site/)**: 有弹幕和评论
-- **[低端影视](https://ddys.pro/)**: 也有三次元电影和剧集，能用百度夸克下载

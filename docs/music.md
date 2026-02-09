@@ -2,6 +2,7 @@
 sidebar_position: 6
 sidebar_label: 音乐
 ---
+
 # 音乐
 
 在线听的话也可以用youtube，B站会压音质
