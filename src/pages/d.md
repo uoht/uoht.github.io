@@ -128,8 +128,16 @@ unlisted: true
 
 [百度网盘分卷压缩版(目录有些不同)](https://pan.baidu.com/s/1md-qoSNZLgk4Dyl1xPCfyA?pwd=m8p3)
 
-[kuku.lu合集压缩版](https://d.kuku.lu/kykjpwrkh) | [bell的新图到2026-2-16](https://d.kuku.lu/xz7gvahvt)
+[kuku.lu合集压缩版](https://d.kuku.lu/kykjpwrkh)
 
 [onedrive直接传图版(需要梯子，2030年会过期，登录后可批量下载)](https://1drv.ms/f/c/82945619c21ca490/IgCmWgzDwVdaQrTBA0o-b9MfAcTjQNVX4zpLjY7XNtTj2W0?e=eRe784)
 
 google drive直接传图版(需要梯子，分两部分)：[其他](https://drive.google.com/drive/folders/15NBCxIg6i6as6X72_jbqzyZg8N2XNS8F?usp=sharing) [ComicMarket](https://drive.google.com/drive/folders/1SvVlArwYSw5BU5xBiLvY8Z4lBW93R4dU)
+
+更新内容：
+
+bell2023 精简版 2025-10-26~2026-2-16
+
+[てぃんくる][萌·怪盜蕾莉絲][東立][掃圖者 By 惡之華]
+
+[kuku.lu链接](https://d.kuku.lu/6kauzjy6t)
