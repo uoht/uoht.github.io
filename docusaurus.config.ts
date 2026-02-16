@@ -1,7 +1,7 @@
 import { themes as prismThemes } from 'prism-react-renderer';
 import type { Config } from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
-// git add . ; git commit -m "更新d" ; git push origin main
+// git add . ; git commit -m "更新介绍" ; git push origin main
 //  ; $env:GIT_USER="uoht"; yarn deploy
 // yarn start
 // yarn build
@@ -24,13 +24,6 @@ const config: Config = {
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
-
-  // GitHub pages deployment config.
-  // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'uoht', // Usually your GitHub org/user name.
-  projectName: 'uoht.github.io', // Usually your repo name.
-  deploymentBranch: 'main', // 添加这一行，指定部署分支
-  trailingSlash: false, // 添加这一行，解决 URL 斜杠警告
 
   onBrokenLinks: 'throw',
   //onBrokenMarkdownLinks: 'warn',
