@@ -34,6 +34,7 @@ sidebar_position: 8
 ### 同人游戏
 
 - **[ACG港湾](https://www.acggw.me/)**
+- **[galgamex](https://www.galgamex.top/)**
 - **[ggbases](https://www.ggbases.com/)**: 需要自己下载汉化补丁
 
 ### 汉化补丁站
