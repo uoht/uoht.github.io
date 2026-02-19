@@ -33,6 +33,7 @@ sidebar_position: 8
 
 ### 同人游戏
 
+- **[大丫推荐](dayalt.top)**: 资源多，但广告也多
 - **[ACG港湾](https://www.acggw.me/)**
 - **[galgamex](https://www.galgamex.top/)**
 - **[ggbases](https://www.ggbases.com/)**: 需要自己下载汉化补丁
@@ -63,4 +64,5 @@ sidebar_position: 8
   
 ### 磁力
 
+- **[btstate](https://btstate.com/)**
 - **[NYAA](https://sukebei.nyaa.si)**
