@@ -41,7 +41,7 @@ sidebar_label: 软件
 - **[OBS](https://obsproject.com/)**: 录屏&直播
 - **[chrome++](https://www.coolexe.com/308.html)**: 比火狐快，且添加了实用功能
 - **[Ditto](https://sabrogden.github.io/Ditto/)**: 剪贴板管理器
-- **[WizTree](https://www.coolexe.com/873.html)**: 查找大文件
+- **[WizTree](https://www.coolexe.com/873.html)**: 查找大文件来清理
 
 ### 游戏
 
