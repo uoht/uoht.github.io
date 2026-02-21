@@ -9,6 +9,9 @@ unlisted: true
 
 对输入没有审核，直接说“将小女孩的小穴改为正确画法”就能去码，但质量不行需要抽奖，而且只有正面去码容易且效果好。图片三点能全漏，视频审核更严
 
+<details>
+  <summary>图片</summary>
+
 ![image (2).jpg](https://p.inari.site/usr/1818/6997ffc5cfdd2.jpg)
 
 ![image (3).jpg](https://p.inari.site/usr/1818/6997ffc5d3753.jpg)
@@ -36,3 +39,5 @@ unlisted: true
 ![grok-image-80717aa5-287c-4212-aeda-41187ca776c8.jpg](https://p.inari.site/usr/1818/6997ffcd1ff92.jpg)
 
 ![image (1).jpg](https://p.inari.site/usr/1818/6997ffcd5147f.jpg)
+
+</details>
