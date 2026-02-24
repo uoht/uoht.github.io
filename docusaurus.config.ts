@@ -1,7 +1,7 @@
 import { themes as prismThemes } from 'prism-react-renderer';
 import type { Config } from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
-// git add . ; git commit -m "删除图床" ; git push origin main
+// git add . ; git commit -m "修复game链接" ; git push origin main
 //  ; $env:GIT_USER="uoht"; yarn deploy
 // yarn start
 // yarn build
