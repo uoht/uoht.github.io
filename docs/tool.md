@@ -17,10 +17,9 @@ sidebar_position: 3
 
 ## 梯子
 
-ios翻墙客户端免费的可以用 [clash mi](https://clashmi.app/) (不能用规则分流)，但更建议[用公益站的账号](https://gx.880333.xyz/)下载stash或小火箭，电脑用 [FLClash](https://github.com/chen08209/FlClash)
+ios翻墙客户端免费的可以用 [clash mi](https://clashmi.app/) (不能用规则分流)，但更建议[用公益站的账号](https://gx.880333.xyz/)下载stash或小火箭，电脑用 [FLClash](https://github.com/chen08209/FlClash)。每个人需求不一样，不推荐付费梯子了
 
 - **[askahh的免费机场推荐](https://www.askahh.com/archives/17/)**
-- **[奶油机场](https://creamdata.net/#pricing)**: 比较低调，上一条官方消息在2022年。平均一周要换一次节点。（我不太了解机场，这不一定是最优的选择）
 
 ## 导航
 
