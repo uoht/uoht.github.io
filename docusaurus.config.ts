@@ -11,7 +11,6 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: 'uoht',
-  tagline: 'Ciallo～(∠・ω< )⌒☆',
   favicon: 'img/favicon.ico',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
@@ -24,7 +23,7 @@ const config: Config = {
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
-
+ 
   onBrokenLinks: 'throw',
   //onBrokenMarkdownLinks: 'warn',
 
