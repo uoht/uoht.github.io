@@ -1,7 +1,7 @@
 import { themes as prismThemes } from 'prism-react-renderer';
 import type { Config } from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
-// git add . ; git commit -m "更新介绍" ; git push origin main
+// git add . ; git commit -m "更新www" ; git push origin main
 //  ; $env:GIT_USER="uoht"; yarn deploy
 // yarn start
 // yarn build
@@ -20,7 +20,7 @@ const config: Config = {
   },
 
   // Set the production url of your site here
-  url: 'https://101161.xyz',
+  url: 'https://www.101161.xyz',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
