@@ -60,7 +60,7 @@ sidebar_position: 8
 
 ### 论坛
 
-- **[南+](https://south-plus.net/)**
+- **[南+](https://south-plus.net/)**: 在[YAAS](https://alist-public.imoutoheaven.org/)有些资源能高速下载
   
 ### 磁力
 
