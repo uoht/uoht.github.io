@@ -56,7 +56,7 @@ sidebar_label: 软件
 - **[Adobe Acrobat](https://www.itrmb.com/thread-3834.htm)**: PDF
 - **[PotPlayer](https://www.52pojie.cn/thread-1095822-1-1.html)**: 视频播放器，可设置播放列表，建议用该版本，有madVR+LAV+默认设置
 - **[AIMP](https://www.puresys.net/4652.html)**: 本地音乐播放器，建议用M5皮肤
-- **[Mp3tag](https://www.puresys.net/4652.html)**: 音乐标签编辑，也能根据标签改文件名
+- **[Mp3tag](https://www.mp3tag.de/en/download.html)**: 音频文件元数据编辑工具
 
 ## 手机软件
 
