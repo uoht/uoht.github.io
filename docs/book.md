@@ -12,6 +12,8 @@ sidebar_label: 书籍
 
 ## 轻小说/漫画
 
+- **[轻小说文库](https://www.wenku8.net/)**: 可以在线看和下载轻小说
+- **[轻之国度](https://www.lightnovel.fun/)**: 只能在线看
 - **[次元狗动漫](https://www.acgndog.com/)**: 只能下载
-- **[Hikarinagi](https://www.hikarinagi.org/lightnovel)**: 可以在线看轻小说，但资源较少
+- **[Hikarinagi](https://www.hikarinagi.org/lightnovel)**: 只能在线看轻小说，页面很先进但资源较少
 - **[mangadex](https://mangadex.org/)**: 英文版的漫画

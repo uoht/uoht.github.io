@@ -27,7 +27,7 @@ sidebar_position: 8
 ### galgame
 
 - **[Shionlib](https://shionlib.com/zh/)**: 有预览
-- **[梓澪の妙妙屋](https://zi0.cc/)**
+- **[梓澪の妙妙屋](https://zi1.cc/)**
 - **[真红小站](https://www.shinnku.com/)**
 - **[TouchGal](https://www.touchgal.us/)**: 有预览，但没有冷门资源
 
@@ -36,6 +36,7 @@ sidebar_position: 8
 - **[大丫推荐](https://dayalt.top)**: 资源多，但广告也多
 - **[ACG港湾](https://www.acggw.me/)**
 - **[galgamex](https://www.galgamex.top/)**
+- **[kimochi](https://kimochi.info/)**: 英文网站，不一定有汉化
 - **[ggbases](https://www.ggbases.com/)**: 需要自己下载汉化补丁
 
 ### 汉化补丁站
