@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>正在跳转...</title>
+    <meta http-equiv="refresh" content="0; URL='https://lolidoc.com/'" />
+    <link rel="canonical" href="https://lolidoc.com/" />
+</head>
+<body>
+    <script>
+        // 方案 B：JS 智能跳转 (带路径跳转)
+        // 比如访问 xxx.github.io/docs/intro 会自动跳到 new.com/docs/intro
+        var newSite = "https://lolidoc.com";
+        window.location.replace(newSite + window.location.pathname + window.location.search + window.location.hash);
+    </script>
+    <p>正在跳转到新站，请稍候... <a href="https://lolidoc.com/">点击这里直接进入</a></p>
+</body>
+</html>
