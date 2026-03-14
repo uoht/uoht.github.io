@@ -1,6 +1,5 @@
 ---
 sidebar_position: 4
-sidebar_label: 动画
 ---
 
 # 动画
