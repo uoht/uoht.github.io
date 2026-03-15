@@ -14,9 +14,8 @@ def process_markdown_files():
     # 正则：匹配 sidebar_position 的值
     position_pattern = re.compile(r'^sidebar_position:\s*(\d+)', re.MULTILINE)
     
-    # 【修改点】：使用 .glob("*.md") 只获取当前文件夹的md文件，忽略子文件夹
+    # 使用 .glob("*.md") 只获取当前文件夹的md文件（不管子文件夹）
     for filepath in docs_dir.glob("*.md"):
-        # 确保它是一个文件而不是同名的文件夹
         if not filepath.is_file():
             continue
             
@@ -28,7 +27,7 @@ def process_markdown_files():
             match = frontmatter_pattern.match(content)
             if match:
                 frontmatter = match.group(1)
-                body = match.group(2)  # 这里就是去除了前面注释的正文
+                body = match.group(2)  # 正文
                 
                 # 提取数字
                 pos_match = position_pattern.search(frontmatter)
@@ -50,6 +49,22 @@ def process_markdown_files():
     
     # 拼合正文，中间用两个换行符隔开
     merged_content = "\n\n".join([doc[1].strip() for doc in documents])
+    
+    # 【新增功能 1】：将所有标题层数加深（增加一个 #）
+    # 正则解释：匹配每一行开头的连续 #，且要求 # 后面必须跟一个空格 (?=\s)，避免误伤代码注释
+    heading_pattern = re.compile(r'^(#+)(?=\s)', re.MULTILINE)
+    # 把匹配到的连续 # 替换为 # + 原来的 #
+    merged_content = heading_pattern.sub(r'#\1', merged_content)
+    
+    # 【新增功能 2】：在末尾附加指定的一段话
+    append_text = (
+        "刚刚看到<https://www.kungal.com/topic/3287> b站有很多假资源UP，我非常感同身受，"
+        "我是个萌新时也经常为找不到资源苦恼。我之前在开源网站[lolidoc.com](https://lolidoc.com/)上"
+        "整理了二次元资源的导航，现在差不多完善了，在这里也发一份，欢迎补充"
+        "![Sticker](https://sticker.kungal.com/stickers/KUNgal1/17.webp \"Sticker\")"
+    )
+    # 将附加文本加在最后（前面空两行）
+    merged_content += f"\n\n{append_text}\n"
     
     # 输出到目标文件
     output_file.parent.mkdir(parents=True, exist_ok=True)

@@ -9,7 +9,6 @@ sidebar_position: 3
 
 搜索引擎无法解决的问题再问ai，目前ai幻觉太多了
 
-- **[模型逆向检测](https://reverse-check.no-reverse-api.com/)**
 - **[oaipro](https://api.oaipro.com/)**: [linux.do](https://linux.do/t/topic/1566233)站长开的，只有OpenAI与Claude的API，没有技巧，只是官代，80元起充。
 - **[绑定借记卡使用gemini](https://linux.do/t/topic/980611)**
 - **[Cherry Studio](https://www.cherry-ai.com/)**: 客户端，要记得跟随模型更新
