@@ -19,7 +19,3 @@ sidebar_position: 3
 ios翻墙客户端免费的可以用 [clash mi](https://clashmi.app/) (不能用规则分流)，或找共享账号下载小火箭等付费软件，电脑用 [FLClash](https://github.com/chen08209/FlClash)。每个人需求不一样，不推荐付费梯子了
 
 - **[askahh的免费机场推荐](https://www.askahh.com/archives/17/)**
-
-## 导航
-
-- **[盗版新手指南](https://www.aigosearch.com/zh/beginners-guide/)**: 英文网站
