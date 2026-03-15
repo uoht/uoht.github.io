@@ -6,6 +6,7 @@ sidebar_position: 7
 
 ## steam游戏
 
+- **[koyso](https://koyso.com/)**: 能直链下载
 - **[单机派](https://www.danjipai.com/)**
 - **[Switch520](https://www.gamer520.com/)**
 - **[igg-games](https://igg-games.com/)**: 英语网站
