@@ -27,6 +27,7 @@ sidebar_position: 8
 ### galgame
 
 - **[Shionlib](https://shionlib.com/zh/)**: 有预览
+- **[Singureo](https://www.singureo.com/)**: 有预览
 - **[梓澪の妙妙屋](https://zi1.cc/)**
 - **[真红小站](https://www.shinnku.com/)**
 - **[TouchGal](https://www.touchgal.us/)**: 有预览，但没有冷门资源
