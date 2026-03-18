@@ -6,7 +6,7 @@ sidebar_position: 2
 
 ## 下载站
 
-下载站更新有延迟，免费软件更建议去官方网站下载
+下载站更新有延迟，免费软件更建议去官方网站下载，除非官方太慢
 
 - **[克隆窝](https://www.uy5.net/)**: 软件比较全、社区很强
 - **[阿酷杂货铺](https://www.coolexe.com/)**
@@ -34,7 +34,7 @@ sidebar_position: 2
 - **[coodesker](https://www.puresys.net/2351.html)**: 桌面整理工具
 - **[Free Download Manager](https://www.puresys.net/1525.html)**: 多线程断点下载
 - **[Bandizip](https://www.puresys.net/412.html)**: 解压软件，支持密码管理、智能解压
-- **[迅雷](https://www.puresys.net/311.html)**: 种子下载快，上传可以用比特彗星
+- **[迅雷](https://www.puresys.net/311.html)**: 种子下载快，上传可以用[qBittorrent](https://www.puresys.net/827.html)
 - **[Catime](https://github.com/vladelaina/Catime)**: 计时器
 - **[Snipaste](https://4fb.cn/soft/pc/2622.html)**: 截图&贴图
 - **[OBS](https://obsproject.com/)**: 录屏&直播
@@ -55,7 +55,8 @@ sidebar_position: 2
 - **[Adobe Acrobat](https://www.itrmb.com/thread-3834.htm)**: PDF
 - **[PotPlayer](https://www.52pojie.cn/thread-1095822-1-1.html)**: 视频播放器，可设置播放列表，建议用该版本，有madVR+LAV+默认设置
 - **[AIMP](https://www.puresys.net/4652.html)**: 本地音乐播放器，建议用M5皮肤
-- **[Mp3tag](https://www.mp3tag.de/en/download.html)**: 音频文件元数据编辑工具
+- **[Mp3tag](https://www.mp3tag.de/en/download.html)**: 音频文件属性编辑工具
+- **[MusicBrainz Picard](https://picard.musicbrainz.org/)**: 根据音频文件属性或音频指纹自动添加属性
 
 ## 手机软件
 

@@ -5,7 +5,7 @@ from pathlib import Path
 def process_markdown_files():
     # 定义输入和输出路径
     docs_dir = Path(r"C:\data\my-website\docs")
-    output_file = Path(r"C:\data\my-website\2.md")
+    output_file = Path(r"C:\data\my-website\3.md")
     
     documents = []
     
@@ -35,7 +35,7 @@ def process_markdown_files():
                     position = int(pos_match.group(1))
                     
                     # 筛选 4 到 8 之间的文档
-                    if 4 <= position <= 8:
+                    if 4 <= position <= 7:
                         documents.append((position, body))
         except Exception as e:
             print(f"处理文件 {filepath} 时出错: {e}")
@@ -58,8 +58,23 @@ def process_markdown_files():
     
     # 【新增功能 2】：在末尾附加指定的一段话
     append_text = (
-        '''
-刚刚看到<https://www.kungal.com/topic/3287> b站有很多假资源UP，我非常感同身受，我是个萌新时也经常为找不到资源苦恼。我之前在开源网站[lolidoc.com](https://lolidoc.com/)上整理了二次元资源的导航，现在差不多完善了，在这里也发一份，欢迎补充![Sticker](https://sticker.kungal.com/stickers/KUNgal1/17.webp "Sticker")'''
+        '''其他分享：
+
+https://linux.do/t/topic/1587558
+
+https://linux.do/t/topic/1334842
+
+均转载自我的开源网站[lolidoc.com](https://lolidoc.com/)
+
+[details="开源推广说明"]
+#### 本帖使用社区开源推广，符合推广要求。我申明并遵循社区要求的以下内容：
+* **我的帖子已经打上 #开源推广 标签：** 是
+* **我的开源项目完整开源，无未开源部分：** 是
+* **我的开源项目已链接认可 LINUX DO 社区：** 是
+* **我帖子内的项目介绍，AI生成、润色内容部分已截图发出：** 是
+* **以上选择我承诺是永久有效的，接受社区和佬友监督：** 是
+[/details]
+'''
     )
     # 将附加文本加在最后（前面空两行）
     merged_content += f"\n\n{append_text}\n"

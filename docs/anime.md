@@ -10,7 +10,7 @@ sidebar_position: 4
 
 ### 磁力
 
-- **[蜜柑计划](https://mikanani.me/)**
+- **[蜜柑计划](https://mikanani.me/)**: 新番快，但老番下不动，可以在[NYAA](https://sukebei.nyaa.si)用英文搜索下载老番，然后自己下字幕加上
 
 ### 自建网盘
 

@@ -31,6 +31,7 @@ sidebar_position: 8
 - **[梓澪の妙妙屋](https://zi1.cc/)**
 - **[真红小站](https://www.shinnku.com/)**
 - **[TouchGal](https://www.touchgal.us/)**: 有预览，但没有冷门资源
+- **[唯のgal资源仓库](https://gal.yinghu.xyz/)**: 有很多超级冷门的无汉化同人游戏
 
 ### 同人游戏
 
@@ -66,5 +67,5 @@ sidebar_position: 8
   
 ### 磁力
 
-- **[btstate](https://btstate.com/)**
-- **[NYAA](https://sukebei.nyaa.si)**
+- **[BTDigg](https://btdig.com/index.htm)**: 通用磁力搜索站
+- **[NYAA](https://sukebei.nyaa.si)**: 二次元磁力搜索站
