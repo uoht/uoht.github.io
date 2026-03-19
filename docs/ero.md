@@ -6,7 +6,7 @@ sidebar_position: 8
 
 ## 通用
 
-- **[灵梦御所](https://blog.reimu.net/)**: 老资源在 [mega站点](https://mega.nz/folder/50Yh2TwY#3Uo_m5uSWGpZeOFIX9Sc5Q) 搜索编号下载，新资源在tg群([telegram访问方法](https://linux.do/t/topic/51331/74))
+- **[灵梦御所](https://blog.reimu.net/)**: 老资源在 [mega站点](https://mega.nz/folder/50Yh2TwY#3Uo_m5uSWGpZeOFIX9Sc5Q) 搜索编号下载，新资源在tg群([telegram访问方法](https://linux.do/t/topic/51331/74))，资源少但质量不错
 
 ## 插画
 
@@ -68,4 +68,4 @@ sidebar_position: 8
 ### 磁力
 
 - **[BTDigg](https://btdig.com/index.htm)**: 通用磁力搜索站
-- **[NYAA](https://sukebei.nyaa.si)**: 二次元磁力搜索站
+- **[NYAA](https://sukebei.nyaa.si)**: 日本资源磁力搜索站
