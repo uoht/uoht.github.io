@@ -1,7 +1,7 @@
 import { themes as prismThemes } from 'prism-react-renderer';
 import type { Config } from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
-// git add . ; git commit -m "微调内容" ; git push origin main
+// git add . ; git commit -m "添加Umami" ; git push origin main
 //  ; $env:GIT_USER="uoht"; yarn deploy
 // yarn start
 // yarn build
@@ -13,7 +13,13 @@ import type * as Preset from '@docusaurus/preset-classic';
 const config: Config = {
   title: 'uoht',
   favicon: 'img/favicon.ico',
-
+  scripts: [
+    {
+      src: 'https://u.lolidoc.com/script.js',
+      defer: true,
+      'data-website-id': '12f66eb0-6831-44fc-8baf-422f9b747bc6',
+    },
+  ],
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
     v4: true, // Improve compatibility with the upcoming Docusaurus v4
@@ -24,7 +30,7 @@ const config: Config = {
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
- 
+
   onBrokenLinks: 'throw',
   //onBrokenMarkdownLinks: 'warn',
 
