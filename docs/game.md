@@ -15,4 +15,4 @@ sidebar_position: 7
 ## 模拟器游戏
 
 - **[掌机迷](https://www.gbarom.cn/moniqi)**: 下载模拟器，游戏要5块才能下
-- **[老男人游戏网配套论坛](https://bbs.oldmantvg.net/)**: 用搜索功能下载游戏
+- **[雯瑾文曦](https://space.bilibili.com/50702152)**: 只有合集没有单游戏下载，但是有存档
