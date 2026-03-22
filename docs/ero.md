@@ -50,6 +50,7 @@ sidebar_position: 8
 - **[鲲 Galgame](https://www.kungal.com/)**: 非常先进，讨论环境好
 - **[御爱同萌](https://www.ai2.moe/)**: ai汉化首发
 - **[绯月 ScarletMoon](https://bbs.kfpromax.com/index.php)**: 人最多
+- **[f95zone](https://f95zone.to/)**: 欧美成人游戏论坛，网盘很快
 
 ## 其他
 
@@ -60,6 +61,7 @@ sidebar_position: 8
 - **[acgdb](https://acgdb.de/)**
 - **[猫猫网盘](https://catcat.cloud/)**
 - **[SunshineBoy的杂乱仓库](https://openlist.sunshineboy.top/)**
+- **[asmr.one](https://asmr.one/)**: asmr，能在线听和下载
 
 ### 论坛
 
