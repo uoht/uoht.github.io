@@ -13,6 +13,7 @@ sidebar_position: 5
 
 - **[轻小说文库](https://www.wenku8.net/)**: 可以在线看和下载轻小说，但只有txt
 - **[轻之国度](https://www.lightnovel.fun/)**: 只能在线看
+- **[拷贝漫画](https://www.mangacopy.com/)**: 只能在线看漫画
 - **[次元狗动漫](https://www.acgndog.com/)**: 只能下载
 - **[Hikarinagi](https://www.hikarinagi.org/lightnovel)**: 只能在线看轻小说，页面很先进但资源较少
 - **[mangadex](https://mangadex.org/)**: 英文版的漫画
