@@ -12,7 +12,6 @@ sidebar_position: 99
 - **[bangumi大佬的最全整理](https://bgm.tv/index/25513)**
 - **[anime-sharing论坛的讨论](https://www.anime-sharing.com/threads/loli-discussion-and-sharing.1651746/)**
 - **[B站蓝宝呐呐呐](https://space.bilibili.com/3546916403021857)**: 分享萝莉~~和福瑞~~画师
-- **[B站魔法少女月兰酱](https://space.bilibili.com/234878500)**: 个人汉化组
 - **[morian.icu的部分色图和MMD](https://openlist.sunshineboy.top/%E8%89%B2%E5%9B%BE)**
 - **[南+大佬叶酱的分享](https://white-plus.net/u.php?action-topic-uid-2030214.html)**: 有合集和自购资源
 - **[智乃网盘2](https://twrp.uk/gal%20game/Loli)**: galgame下载

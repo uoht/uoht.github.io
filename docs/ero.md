@@ -61,7 +61,8 @@ sidebar_position: 8
 - **[acgdb](https://acgdb.de/)**
 - **[猫猫网盘](https://catcat.cloud/)**
 - **[SunshineBoy的杂乱仓库](https://openlist.sunshineboy.top/)**
-- **[asmr.one](https://asmr.one/)**: asmr，能在线听和下载
+- **[asmr.one](https://asmr.one/)**: 国外的二次元asmr，能在线听和下载
+- **[蛋蛋ASMR](https://a.asmregg.top/)**: 中国的asmr，能在线听和下载，但音质低
 
 ### 论坛
 
